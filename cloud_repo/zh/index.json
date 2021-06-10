@@ -1,0 +1,11 @@
+{
+    "title": "下載",
+    "value": "download",
+    "isLeaf": false,
+    "subfolders": [
+        {
+            "title": "JLPT",
+            "value": "jlpt"
+        }
+    ]
+}
