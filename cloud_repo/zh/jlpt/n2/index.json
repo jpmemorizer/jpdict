@@ -2905,7 +2905,7 @@
                 "isFree": false,
                 "discount": 1.0,
                 "prices": {
-                    "Coin": 50
+                    "Coin": 100
                 }
             }
         },
@@ -5796,7 +5796,7 @@
                 "isFree": false,
                 "discount": 1.0,
                 "prices": {
-                    "Coin": 50
+                    "Coin": 100
                 }
             }
         },
@@ -8735,7 +8735,7 @@
                 "isFree": false,
                 "discount": 1.0,
                 "prices": {
-                    "Coin": 50
+                    "Coin": 100
                 }
             }
         },
@@ -11656,7 +11656,7 @@
                 "isFree": false,
                 "discount": 1.0,
                 "prices": {
-                    "Coin": 50
+                    "Coin": 100
                 }
             }
         },
@@ -14542,7 +14542,7 @@
                 "isFree": false,
                 "discount": 1.0,
                 "prices": {
-                    "Coin": 50
+                    "Coin": 100
                 }
             }
         },
@@ -17411,7 +17411,7 @@
                 "isFree": false,
                 "discount": 1.0,
                 "prices": {
-                    "Coin": 50
+                    "Coin": 100
                 }
             }
         },
@@ -19691,7 +19691,7 @@
                 "isFree": false,
                 "discount": 1.0,
                 "prices": {
-                    "Coin": 50
+                    "Coin": 80
                 }
             }
         }

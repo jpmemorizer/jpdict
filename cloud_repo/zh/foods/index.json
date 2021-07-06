@@ -16,7 +16,7 @@
                 "isFree": false,
                 "discount": 1.0,
                 "prices": {
-                    "Coin": 50
+                    "Coin": 60
                 }
             },
             "numFlashcards": 29,
@@ -1096,7 +1096,7 @@
                 "isFree": false,
                 "discount": 1.0,
                 "prices": {
-                    "Coin": 50
+                    "Coin": 60
                 }
             },
             "numFlashcards": 30,
@@ -2365,7 +2365,7 @@
                 "isFree": false,
                 "discount": 1.0,
                 "prices": {
-                    "Coin": 50
+                    "Coin": 60
                 }
             },
             "numFlashcards": 28,
@@ -3455,7 +3455,7 @@
                 "isFree": false,
                 "discount": 1.0,
                 "prices": {
-                    "Coin": 50
+                    "Coin": 60
                 }
             },
             "numFlashcards": 30,
