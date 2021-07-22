@@ -4,9 +4,9 @@
     "isLeaf": true,
     "repos": [
         {
-            "id": "541fb674-eb01-11eb-99da-b46bfc8f52a9",
-            "createTime": "2021-07-22T23:27:30.367785",
-            "lastModifiedTime": "2021-07-22T23:27:30.367785",
+            "id": "12d474bd-eb03-11eb-b665-b46bfc8f52a9",
+            "createTime": "2021-07-22T23:39:59.816936",
+            "lastModifiedTime": "2021-07-22T23:39:59.816936",
             "title": "自然資源",
             "tags": [
                 "自然",
@@ -21,6 +21,36 @@
             },
             "numFlashcards": 27,
             "flashcards": [
+                {
+                    "originalText": "エメラルド",
+                    "word": {
+                        "text": "エメラルド",
+                        "kana": "エメラルド",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "綠寶石"
+                    ],
+                    "jishoDefinitions": [
+                        "emerald",
+                        "Emerald (Australia)"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:39:59.815939"
+                },
                 {
                     "originalText": "金",
                     "word": {
@@ -59,7 +89,91 @@
                         "golden, prosperous"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:27:30.367785"
+                    "createTime": "2021-07-22T23:40:00.815939"
+                },
+                {
+                    "originalText": "鉱石",
+                    "word": {
+                        "text": "鉱石",
+                        "kana": "こうせき",
+                        "kanjis": [
+                            {
+                                "text": "鉱",
+                                "furigana": "こう",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "石",
+                                "furigana": "せき",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "こう",
+                            "せき"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "礦石"
+                    ],
+                    "jishoDefinitions": [
+                        "ore, mineral"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:01.815939"
+                },
+                {
+                    "originalText": "池",
+                    "word": {
+                        "text": "池",
+                        "kana": "いけ",
+                        "kanjis": [
+                            {
+                                "text": "池",
+                                "furigana": "いけ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "いけ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "池子，池塘"
+                    ],
+                    "jishoDefinitions": [
+                        "pond"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "流れは池に注いでいる。",
+                            "translated": "溪流流入池塘。"
+                        },
+                        {
+                            "jp": "彼らは池のあたりにいるかもしれない。",
+                            "translated": "也許他們在池塘附近的某個地方。"
+                        },
+                        {
+                            "jp": "日本の庭にはふつう池がある。",
+                            "translated": "日本花園通常有池塘。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:02.815939"
                 },
                 {
                     "originalText": "銀",
@@ -105,110 +219,15 @@
                             "translated": "比起金戒指，我更喜歡銀戒指。"
                         }
                     ],
-                    "createTime": "2021-07-22T23:27:31.367785"
+                    "createTime": "2021-07-22T23:40:03.815939"
                 },
                 {
-                    "originalText": "鉄",
+                    "originalText": "サファイア",
                     "word": {
-                        "text": "鉄",
-                        "kana": "てつ",
-                        "kanjis": [
-                            {
-                                "text": "鉄",
-                                "furigana": "てつ",
-                                "index": 0,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "てつ"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "鐵"
-                    ],
-                    "jishoDefinitions": [
-                        "iron (Fe)",
-                        "strong and hard (as iron)"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "その鉄の棒はさびてぼろぼろになった。",
-                            "translated": "鏽蝕了鐵棒。"
-                        },
-                        {
-                            "jp": "彼女鉄の意志を持ってるからね。",
-                            "translated": "她是個鐵石心腸的女人。"
-                        },
-                        {
-                            "jp": "金は鉄より重い。",
-                            "translated": "黃金比鐵重。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:27:32.367785"
-                },
-                {
-                    "originalText": "青銅",
-                    "word": {
-                        "text": "青銅",
-                        "kana": "せいどう",
-                        "kanjis": [
-                            {
-                                "text": "青",
-                                "furigana": "せい",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "銅",
-                                "furigana": "どう",
-                                "index": 1,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "せい",
-                            "どう"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "青銅"
-                    ],
-                    "jishoDefinitions": [
-                        "bronze"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "青銅は銅とすずから成り立っている。",
-                            "translated": "青銅由銅和錫組成。"
-                        },
-                        {
-                            "jp": "彼らは青銅で像を鋳造した。",
-                            "translated": "他們將青銅鑄成一尊雕像。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:27:33.367785"
-                },
-                {
-                    "originalText": "アルミニウム",
-                    "word": {
-                        "text": "アルミニウム",
-                        "kana": "アルミニウム",
+                        "text": "サファイア",
+                        "kana": "サファイア",
                         "kanjis": [],
                         "furigana": [
-                            "",
                             "",
                             "",
                             "",
@@ -217,221 +236,140 @@
                         ],
                         "hasFurigana": false,
                         "jishoHasError": false,
-                        "accentIndex": 4
+                        "accentIndex": 2
                     },
                     "wordTypes": [
                         "noun"
                     ],
                     "definitions": [
-                        "鋁"
+                        "藍寶石"
                     ],
                     "jishoDefinitions": [
-                        "aluminum (Al), aluminium"
+                        "sapphire"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:27:34.367785"
+                    "createTime": "2021-07-22T23:40:04.815939"
                 },
                 {
-                    "originalText": "マグネシウム",
+                    "originalText": "溶岩",
                     "word": {
-                        "text": "マグネシウム",
-                        "kana": "マグネシウム",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 4
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "鎂"
-                    ],
-                    "jishoDefinitions": [
-                        "magnesium (Mg)"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:27:35.367785"
-                },
-                {
-                    "originalText": "鋼鉄",
-                    "word": {
-                        "text": "鋼鉄",
-                        "kana": "こうてつ",
+                        "text": "溶岩",
+                        "kana": "ようがん",
                         "kanjis": [
                             {
-                                "text": "鋼",
-                                "furigana": "こう",
+                                "text": "溶",
+                                "furigana": "よう",
                                 "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "鉄",
-                                "furigana": "てつ",
-                                "index": 1,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "こう",
-                            "てつ"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "鋼"
-                    ],
-                    "jishoDefinitions": [
-                        "steel"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:27:36.367785"
-                },
-                {
-                    "originalText": "錫",
-                    "word": {
-                        "text": "すず",
-                        "kana": "すず",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "錫"
-                    ],
-                    "jishoDefinitions": [
-                        "tin (Sn)"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "この鉄の板はすずでメッキしてある。",
-                            "translated": "這塊鐵板鍍了錫。"
-                        },
-                        {
-                            "jp": "青銅は銅とすずから成り立っている。",
-                            "translated": "青銅由銅和錫組成。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:27:37.367785"
-                },
-                {
-                    "originalText": "小石",
-                    "word": {
-                        "text": "小石",
-                        "kana": "こいし",
-                        "kanjis": [
-                            {
-                                "text": "小",
-                                "furigana": "こ",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "石",
-                                "furigana": "いし",
-                                "index": 1,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "こ",
-                            "いし"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "碎石，小石頭"
-                    ],
-                    "jishoDefinitions": [
-                        "pebble"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "彼女は身をかがめて小石を拾い上げた。",
-                            "translated": "她彎下腰撿起一塊鵝卵石。"
-                        },
-                        {
-                            "jp": "投げた小石は水を切って飛んだ。",
-                            "translated": "我扔的鵝卵石在水面上跳躍。"
-                        },
-                        {
-                            "jp": "そこに八つの小石があった。",
-                            "translated": "那裡有八塊鵝卵石。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:27:38.367785"
-                },
-                {
-                    "originalText": "石灰岩",
-                    "word": {
-                        "text": "石灰岩",
-                        "kana": "せっかいがん",
-                        "kanjis": [
-                            {
-                                "text": "石",
-                                "furigana": "せっかいがん",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "灰",
-                                "furigana": "",
-                                "index": 1,
                                 "length": 1
                             },
                             {
                                 "text": "岩",
-                                "furigana": "",
-                                "index": 2,
+                                "furigana": "がん",
+                                "index": 1,
                                 "length": 1
                             }
                         ],
                         "furigana": [
-                            "せっかいがん",
-                            "",
-                            ""
+                            "よう",
+                            "がん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": true,
-                        "accentIndex": 3
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "wordTypes": [
                         "noun"
                     ],
                     "definitions": [
-                        "石灰岩"
+                        "熔岩"
                     ],
                     "jishoDefinitions": [
-                        "limestone"
+                        "lava",
+                        "Yougan"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "その火山は溶岩を流し出した。",
+                            "translated": "火山噴出熔岩。"
+                        },
+                        {
+                            "jp": "溶岩を地理学的に説明してくれませんか。",
+                            "translated": "你能給我一個熔岩的地質解釋嗎？"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:05.815939"
+                },
+                {
+                    "originalText": "日光",
+                    "word": {
+                        "text": "日光",
+                        "kana": "にっこう",
+                        "kanjis": [
+                            {
+                                "text": "日",
+                                "furigana": "にっこう",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "光",
+                                "furigana": "",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "にっこう",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": true,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "日光，陽光"
+                    ],
+                    "jishoDefinitions": [
+                        "sunlight, sunshine"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は日光を全身に浴びた。",
+                            "translated": "他沐浴在陽光之中。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:06.815939"
+                },
+                {
+                    "originalText": "ルビー",
+                    "word": {
+                        "text": "ルビー",
+                        "kana": "ルビー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "紅寶石"
+                    ],
+                    "jishoDefinitions": [
+                        "ruby",
+                        "ruby character, small hiragana or katakana readings of kanji usually above or to the side of the kanji (esp. used by printers and in ref. to printed material)"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:27:39.367785"
+                    "createTime": "2021-07-22T23:40:07.815939"
                 },
                 {
                     "originalText": "石炭",
@@ -483,134 +421,7 @@
                             "translated": "他們燒了一些煤。"
                         }
                     ],
-                    "createTime": "2021-07-22T23:27:40.367785"
-                },
-                {
-                    "originalText": "溶岩",
-                    "word": {
-                        "text": "溶岩",
-                        "kana": "ようがん",
-                        "kanjis": [
-                            {
-                                "text": "溶",
-                                "furigana": "よう",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "岩",
-                                "furigana": "がん",
-                                "index": 1,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "よう",
-                            "がん"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 1
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "熔岩"
-                    ],
-                    "jishoDefinitions": [
-                        "lava",
-                        "Yougan"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "その火山は溶岩を流し出した。",
-                            "translated": "火山噴出熔岩。"
-                        },
-                        {
-                            "jp": "溶岩を地理学的に説明してくれませんか。",
-                            "translated": "你能給我一個熔岩的地質解釋嗎？"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:27:41.367785"
-                },
-                {
-                    "originalText": "砂岩",
-                    "word": {
-                        "text": "砂岩",
-                        "kana": "さがん",
-                        "kanjis": [
-                            {
-                                "text": "砂",
-                                "furigana": "さ",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "岩",
-                                "furigana": "がん",
-                                "index": 1,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "さ",
-                            "がん"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "砂岩"
-                    ],
-                    "jishoDefinitions": [
-                        "sandstone"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:27:42.367785"
-                },
-                {
-                    "originalText": "鉱石",
-                    "word": {
-                        "text": "鉱石",
-                        "kana": "こうせき",
-                        "kanjis": [
-                            {
-                                "text": "鉱",
-                                "furigana": "こう",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "石",
-                                "furigana": "せき",
-                                "index": 1,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "こう",
-                            "せき"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "礦石"
-                    ],
-                    "jishoDefinitions": [
-                        "ore, mineral"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:27:43.367785"
+                    "createTime": "2021-07-22T23:40:08.815939"
                 },
                 {
                     "originalText": "ダイヤモンド",
@@ -654,94 +465,180 @@
                             "translated": "他拿著鑽石跑了。"
                         }
                     ],
-                    "createTime": "2021-07-22T23:27:44.367785"
+                    "createTime": "2021-07-22T23:40:09.815939"
                 },
                 {
-                    "originalText": "エメラルド",
+                    "originalText": "水たまり",
                     "word": {
-                        "text": "エメラルド",
-                        "kana": "エメラルド",
-                        "kanjis": [],
+                        "text": "水溜り",
+                        "kana": "みずたまり",
+                        "kanjis": [
+                            {
+                                "text": "水",
+                                "furigana": "みず",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "溜",
+                                "furigana": "たま",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
                         "furigana": [
-                            "",
-                            "",
-                            "",
+                            "みず",
+                            "たま",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "水坑，水窪"
+                    ],
+                    "jishoDefinitions": [
+                        "puddle, pool of water"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:10.815939"
+                },
+                {
+                    "originalText": "青銅",
+                    "word": {
+                        "text": "青銅",
+                        "kana": "せいどう",
+                        "kanjis": [
+                            {
+                                "text": "青",
+                                "furigana": "せい",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "銅",
+                                "furigana": "どう",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "せい",
+                            "どう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "青銅"
+                    ],
+                    "jishoDefinitions": [
+                        "bronze"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "青銅は銅とすずから成り立っている。",
+                            "translated": "青銅由銅和錫組成。"
+                        },
+                        {
+                            "jp": "彼らは青銅で像を鋳造した。",
+                            "translated": "他們將青銅鑄成一尊雕像。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:11.815939"
+                },
+                {
+                    "originalText": "琥珀",
+                    "word": {
+                        "text": "琥珀",
+                        "kana": "こはく",
+                        "kanjis": [
+                            {
+                                "text": "琥",
+                                "furigana": "こ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "珀",
+                                "furigana": "はく",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "こ",
+                            "はく"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "琥珀"
+                    ],
+                    "jishoDefinitions": [
+                        "amber"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:12.815939"
+                },
+                {
+                    "originalText": "石灰岩",
+                    "word": {
+                        "text": "石灰岩",
+                        "kana": "せっかいがん",
+                        "kanjis": [
+                            {
+                                "text": "石",
+                                "furigana": "せっかいがん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "灰",
+                                "furigana": "",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "岩",
+                                "furigana": "",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "せっかいがん",
                             "",
                             ""
                         ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
+                        "hasFurigana": true,
+                        "jishoHasError": true,
                         "accentIndex": 3
                     },
                     "wordTypes": [
                         "noun"
                     ],
                     "definitions": [
-                        "綠寶石"
+                        "石灰岩"
                     ],
                     "jishoDefinitions": [
-                        "emerald",
-                        "Emerald (Australia)"
+                        "limestone"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:27:45.367785"
-                },
-                {
-                    "originalText": "ルビー",
-                    "word": {
-                        "text": "ルビー",
-                        "kana": "ルビー",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 1
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "紅寶石"
-                    ],
-                    "jishoDefinitions": [
-                        "ruby",
-                        "ruby character, small hiragana or katakana readings of kanji usually above or to the side of the kanji (esp. used by printers and in ref. to printed material)"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:27:46.367785"
-                },
-                {
-                    "originalText": "サファイア",
-                    "word": {
-                        "text": "サファイア",
-                        "kana": "サファイア",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 2
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "藍寶石"
-                    ],
-                    "jishoDefinitions": [
-                        "sapphire"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:27:47.367785"
+                    "createTime": "2021-07-22T23:40:13.815939"
                 },
                 {
                     "originalText": "翡翠",
@@ -781,69 +678,68 @@
                         "jade (gem)"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:27:48.367785"
+                    "createTime": "2021-07-22T23:40:14.815939"
                 },
                 {
-                    "originalText": "水晶",
+                    "originalText": "光",
                     "word": {
-                        "text": "水晶",
-                        "kana": "すいしょう",
+                        "text": "光",
+                        "kana": "ひかり",
                         "kanjis": [
                             {
-                                "text": "水",
-                                "furigana": "すい",
+                                "text": "光",
+                                "furigana": "ひかり",
                                 "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "晶",
-                                "furigana": "しょう",
-                                "index": 1,
                                 "length": 1
                             }
                         ],
                         "furigana": [
-                            "すい",
-                            "しょう"
+                            "ひかり"
                         ],
                         "hasFurigana": true,
                         "jishoHasError": false,
-                        "accentIndex": 1
+                        "accentIndex": 3
                     },
                     "wordTypes": [
                         "noun"
                     ],
                     "definitions": [
-                        "水晶"
+                        "光"
                     ],
                     "jishoDefinitions": [
-                        "(rock) crystal, high purity quartz"
+                        "light",
+                        "illumination, ray"
                     ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:27:49.367785"
+                    "sentences": [
+                        {
+                            "jp": "太陽は光と熱を与えてくれる。",
+                            "translated": "太陽給了我們光和熱。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:15.815939"
                 },
                 {
-                    "originalText": "琥珀",
+                    "originalText": "小石",
                     "word": {
-                        "text": "琥珀",
-                        "kana": "こはく",
+                        "text": "小石",
+                        "kana": "こいし",
                         "kanjis": [
                             {
-                                "text": "琥",
+                                "text": "小",
                                 "furigana": "こ",
                                 "index": 0,
                                 "length": 1
                             },
                             {
-                                "text": "珀",
-                                "furigana": "はく",
+                                "text": "石",
+                                "furigana": "いし",
                                 "index": 1,
                                 "length": 1
                             }
                         ],
                         "furigana": [
                             "こ",
-                            "はく"
+                            "いし"
                         ],
                         "hasFurigana": true,
                         "jishoHasError": false,
@@ -853,13 +749,102 @@
                         "noun"
                     ],
                     "definitions": [
-                        "琥珀"
+                        "碎石，小石頭"
                     ],
                     "jishoDefinitions": [
-                        "amber"
+                        "pebble"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼女は身をかがめて小石を拾い上げた。",
+                            "translated": "她彎下腰撿起一塊鵝卵石。"
+                        },
+                        {
+                            "jp": "投げた小石は水を切って飛んだ。",
+                            "translated": "我扔的鵝卵石在水面上跳躍。"
+                        },
+                        {
+                            "jp": "そこに八つの小石があった。",
+                            "translated": "那裡有八塊鵝卵石。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:16.815939"
+                },
+                {
+                    "originalText": "鉄",
+                    "word": {
+                        "text": "鉄",
+                        "kana": "てつ",
+                        "kanjis": [
+                            {
+                                "text": "鉄",
+                                "furigana": "てつ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "てつ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鐵"
+                    ],
+                    "jishoDefinitions": [
+                        "iron (Fe)",
+                        "strong and hard (as iron)"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "その鉄の棒はさびてぼろぼろになった。",
+                            "translated": "鏽蝕了鐵棒。"
+                        },
+                        {
+                            "jp": "彼女鉄の意志を持ってるからね。",
+                            "translated": "她是個鐵石心腸的女人。"
+                        },
+                        {
+                            "jp": "金は鉄より重い。",
+                            "translated": "黃金比鐵重。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:17.815939"
+                },
+                {
+                    "originalText": "アルミニウム",
+                    "word": {
+                        "text": "アルミニウム",
+                        "kana": "アルミニウム",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鋁"
+                    ],
+                    "jishoDefinitions": [
+                        "aluminum (Al), aluminium"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:27:50.367785"
+                    "createTime": "2021-07-22T23:40:18.815939"
                 },
                 {
                     "originalText": "夕日",
@@ -907,120 +892,134 @@
                             "translated": "多麼美麗的日落！"
                         }
                     ],
-                    "createTime": "2021-07-22T23:27:51.367785"
+                    "createTime": "2021-07-22T23:40:19.815939"
                 },
                 {
-                    "originalText": "日光",
+                    "originalText": "錫",
                     "word": {
-                        "text": "日光",
-                        "kana": "にっこう",
+                        "text": "すず",
+                        "kana": "すず",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "錫"
+                    ],
+                    "jishoDefinitions": [
+                        "tin (Sn)"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "この鉄の板はすずでメッキしてある。",
+                            "translated": "這塊鐵板鍍了錫。"
+                        },
+                        {
+                            "jp": "青銅は銅とすずから成り立っている。",
+                            "translated": "青銅由銅和錫組成。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:20.815939"
+                },
+                {
+                    "originalText": "マグネシウム",
+                    "word": {
+                        "text": "マグネシウム",
+                        "kana": "マグネシウム",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鎂"
+                    ],
+                    "jishoDefinitions": [
+                        "magnesium (Mg)"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:21.815939"
+                },
+                {
+                    "originalText": "水晶",
+                    "word": {
+                        "text": "水晶",
+                        "kana": "すいしょう",
                         "kanjis": [
                             {
-                                "text": "日",
-                                "furigana": "にっこう",
+                                "text": "水",
+                                "furigana": "すい",
                                 "index": 0,
                                 "length": 1
                             },
                             {
-                                "text": "光",
-                                "furigana": "",
+                                "text": "晶",
+                                "furigana": "しょう",
                                 "index": 1,
                                 "length": 1
                             }
                         ],
                         "furigana": [
-                            "にっこう",
-                            ""
+                            "すい",
+                            "しょう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": true,
+                        "jishoHasError": false,
                         "accentIndex": 1
                     },
                     "wordTypes": [
                         "noun"
                     ],
                     "definitions": [
-                        "日光，陽光"
+                        "水晶"
                     ],
                     "jishoDefinitions": [
-                        "sunlight, sunshine"
+                        "(rock) crystal, high purity quartz"
                     ],
-                    "sentences": [
-                        {
-                            "jp": "彼は日光を全身に浴びた。",
-                            "translated": "他沐浴在陽光之中。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:27:52.367785"
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:22.815939"
                 },
                 {
-                    "originalText": "池",
+                    "originalText": "鋼鉄",
                     "word": {
-                        "text": "池",
-                        "kana": "いけ",
+                        "text": "鋼鉄",
+                        "kana": "こうてつ",
                         "kanjis": [
                             {
-                                "text": "池",
-                                "furigana": "いけ",
-                                "index": 0,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "いけ"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 2
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "池子，池塘"
-                    ],
-                    "jishoDefinitions": [
-                        "pond"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "流れは池に注いでいる。",
-                            "translated": "溪流流入池塘。"
-                        },
-                        {
-                            "jp": "彼らは池のあたりにいるかもしれない。",
-                            "translated": "也許他們在池塘附近的某個地方。"
-                        },
-                        {
-                            "jp": "日本の庭にはふつう池がある。",
-                            "translated": "日本花園通常有池塘。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:27:53.367785"
-                },
-                {
-                    "originalText": "水たまり",
-                    "word": {
-                        "text": "水溜り",
-                        "kana": "みずたまり",
-                        "kanjis": [
-                            {
-                                "text": "水",
-                                "furigana": "みず",
+                                "text": "鋼",
+                                "furigana": "こう",
                                 "index": 0,
                                 "length": 1
                             },
                             {
-                                "text": "溜",
-                                "furigana": "たま",
+                                "text": "鉄",
+                                "furigana": "てつ",
                                 "index": 1,
                                 "length": 1
                             }
                         ],
                         "furigana": [
-                            "みず",
-                            "たま",
-                            ""
+                            "こう",
+                            "てつ"
                         ],
                         "hasFurigana": true,
                         "jishoHasError": false,
@@ -1030,51 +1029,13 @@
                         "noun"
                     ],
                     "definitions": [
-                        "水坑，水窪"
+                        "鋼"
                     ],
                     "jishoDefinitions": [
-                        "puddle, pool of water"
+                        "steel"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:27:54.367785"
-                },
-                {
-                    "originalText": "光",
-                    "word": {
-                        "text": "光",
-                        "kana": "ひかり",
-                        "kanjis": [
-                            {
-                                "text": "光",
-                                "furigana": "ひかり",
-                                "index": 0,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "ひかり"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 3
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "光"
-                    ],
-                    "jishoDefinitions": [
-                        "light",
-                        "illumination, ray"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "太陽は光と熱を与えてくれる。",
-                            "translated": "太陽給了我們光和熱。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:27:55.367785"
+                    "createTime": "2021-07-22T23:40:23.815939"
                 },
                 {
                     "originalText": "微風",
@@ -1108,7 +1069,46 @@
                         "gentle breeze, soft wind"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:27:56.367785"
+                    "createTime": "2021-07-22T23:40:24.815939"
+                },
+                {
+                    "originalText": "砂岩",
+                    "word": {
+                        "text": "砂岩",
+                        "kana": "さがん",
+                        "kanjis": [
+                            {
+                                "text": "砂",
+                                "furigana": "さ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "岩",
+                                "furigana": "がん",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "さ",
+                            "がん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "砂岩"
+                    ],
+                    "jishoDefinitions": [
+                        "sandstone"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:25.815939"
                 }
             ]
         }

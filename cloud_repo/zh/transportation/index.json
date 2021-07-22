@@ -4,9 +4,9 @@
     "isLeaf": true,
     "repos": [
         {
-            "id": "f6fa12d0-eb00-11eb-99da-b46bfc8f52a9",
-            "createTime": "2021-07-22T23:24:54.093346",
-            "lastModifiedTime": "2021-07-22T23:24:54.093346",
+            "id": "0cce566d-eb03-11eb-b2ba-b46bfc8f52a9",
+            "createTime": "2021-07-22T23:39:49.709502",
+            "lastModifiedTime": "2021-07-22T23:39:49.709502",
             "title": "車",
             "tags": [
                 "交通工具",
@@ -21,6 +21,36 @@
             },
             "numFlashcards": 20,
             "flashcards": [
+                {
+                    "originalText": "タコメーター",
+                    "word": {
+                        "text": "タコメーター",
+                        "kana": "タコメーター",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "變速箱"
+                    ],
+                    "jishoDefinitions": [
+                        "tachometer, rev counter"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:39:49.709502"
+                },
                 {
                     "originalText": "車",
                     "word": {
@@ -65,7 +95,322 @@
                             "translated": "當我醒來時，我已經在車裡了。"
                         }
                     ],
-                    "createTime": "2021-07-22T23:24:54.093346"
+                    "createTime": "2021-07-22T23:39:50.709502"
+                },
+                {
+                    "originalText": "フロントガラス",
+                    "word": {
+                        "text": "フロントガラス",
+                        "kana": "フロントガラス",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 5
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "擋風玻璃"
+                    ],
+                    "jishoDefinitions": [
+                        "windscreen, windshield"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "フロントガラスをふきますか。",
+                            "translated": "我應該清潔擋風玻璃嗎？"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:39:51.709502"
+                },
+                {
+                    "originalText": "テールライト",
+                    "word": {
+                        "text": "テールライト",
+                        "kana": "テールライト",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "尾燈"
+                    ],
+                    "jishoDefinitions": [
+                        "taillight"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:39:52.709502"
+                },
+                {
+                    "originalText": "ヘッドライト",
+                    "word": {
+                        "text": "ヘッドライト",
+                        "kana": "ヘッドライト",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "headlight",
+                        "車頭燈"
+                    ],
+                    "jishoDefinitions": [
+                        "headlight"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ヘッドライトが故障したんです。",
+                            "translated": "大燈故障了。"
+                        },
+                        {
+                            "jp": "ヘッドライトをつけてみてください。",
+                            "translated": "你能開大燈嗎？"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:39:53.709502"
+                },
+                {
+                    "originalText": "ボンネット",
+                    "word": {
+                        "text": "ボンネット",
+                        "kana": "ボンネット",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "引擎蓋"
+                    ],
+                    "jishoDefinitions": [
+                        "bonnet, (car) hood",
+                        "bonnet (hat)"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ボンネットをあけて下さい。",
+                            "translated": "打開引擎蓋。"
+                        },
+                        {
+                            "jp": "どうやってボンネットを開けるのですか。",
+                            "translated": "如何打開引擎蓋？"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:39:54.709502"
+                },
+                {
+                    "originalText": "オドメーター",
+                    "word": {
+                        "text": "オドメーター",
+                        "kana": "オドメーター",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "odometer",
+                        "里程表"
+                    ],
+                    "jishoDefinitions": [
+                        "odometer"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:39:55.709502"
+                },
+                {
+                    "originalText": "タイヤ",
+                    "word": {
+                        "text": "タイヤ",
+                        "kana": "タイヤ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "輪胎"
+                    ],
+                    "jishoDefinitions": [
+                        "tire, tyre"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "タイヤから空気がもれています。",
+                            "translated": "輪胎正在漏氣。"
+                        },
+                        {
+                            "jp": "タイヤに空気をいれなければ。",
+                            "translated": "我必須往輪胎裡灌一些空氣。"
+                        },
+                        {
+                            "jp": "このタイヤはだいぶん磨り減っている。",
+                            "translated": "這個輪胎有磨損。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:39:56.709502"
+                },
+                {
+                    "originalText": "スピードメーター",
+                    "word": {
+                        "text": "スピードメーター",
+                        "kana": "スピードメーター",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 5
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "計速計"
+                    ],
+                    "jishoDefinitions": [
+                        "speedometer"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:39:57.709502"
+                },
+                {
+                    "originalText": "ダッシュボード",
+                    "word": {
+                        "text": "ダッシュボード",
+                        "kana": "ダッシュボード",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "dashboard",
+                        "儀表板"
+                    ],
+                    "jishoDefinitions": [
+                        "dashboard, dash"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:39:58.709502"
+                },
+                {
+                    "originalText": "クラクション",
+                    "word": {
+                        "text": "クラクション",
+                        "kana": "クラクション",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "汽車喇叭"
+                    ],
+                    "jishoDefinitions": [
+                        "(car) horn, klaxon"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "トムはクラクションを鳴らし続けた。",
+                            "translated": "湯姆繼續按喇叭。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:39:59.709502"
                 },
                 {
                     "originalText": "自動車",
@@ -120,562 +465,7 @@
                             "translated": "他已經足夠開車了。"
                         }
                     ],
-                    "createTime": "2021-07-22T23:24:55.093346"
-                },
-                {
-                    "originalText": "ハンドル",
-                    "word": {
-                        "text": "ハンドル",
-                        "kana": "ハンドル",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "方向盤"
-                    ],
-                    "jishoDefinitions": [
-                        "handle",
-                        "steering wheel"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "車にはハンドルが一つある。",
-                            "translated": "一輛汽車有一個方向盤。"
-                        },
-                        {
-                            "jp": "若い女性が車のハンドルを握っていた。",
-                            "translated": "一個年輕的女孩握著方向盤。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:24:56.093346"
-                },
-                {
-                    "originalText": "バックミラー",
-                    "word": {
-                        "text": "バックミラー",
-                        "kana": "バックミラー",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 4
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "後視鏡"
-                    ],
-                    "jishoDefinitions": [
-                        "rearview mirror"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "バックミラーがはずれてしまいました。",
-                            "translated": "後視鏡掉下來了。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:24:57.093346"
-                },
-                {
-                    "originalText": "クラクション",
-                    "word": {
-                        "text": "クラクション",
-                        "kana": "クラクション",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 2
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "汽車喇叭"
-                    ],
-                    "jishoDefinitions": [
-                        "(car) horn, klaxon"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "トムはクラクションを鳴らし続けた。",
-                            "translated": "湯姆繼續按喇叭。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:24:58.093346"
-                },
-                {
-                    "originalText": "サイドブレーキ",
-                    "word": {
-                        "text": "サイドブレーキ",
-                        "kana": "サイドブレーキ",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 5
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "side brake",
-                        "手刹車"
-                    ],
-                    "jishoDefinitions": [
-                        "handbrake, parking brake"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:24:59.093346"
-                },
-                {
-                    "originalText": "ブレーキペダル",
-                    "word": {
-                        "text": "ブレーキペダル",
-                        "kana": "ブレーキペダル",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 5
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "剎車踏板"
-                    ],
-                    "jishoDefinitions": [
-                        "brake pedal"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:00.093346"
-                },
-                {
-                    "originalText": "クラッチペダル",
-                    "word": {
-                        "text": "クラッチペダル",
-                        "kana": "クラッチペダル",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 5
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "離合器踏板"
-                    ],
-                    "jishoDefinitions": [
-                        "clutch pedal"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "クラッチペダル、壊しちゃった。",
-                            "translated": "我弄壞了離合器。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:25:01.093346"
-                },
-                {
-                    "originalText": "スピードメーター",
-                    "word": {
-                        "text": "スピードメーター",
-                        "kana": "スピードメーター",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 5
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "計速計"
-                    ],
-                    "jishoDefinitions": [
-                        "speedometer"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:02.093346"
-                },
-                {
-                    "originalText": "タコメーター",
-                    "word": {
-                        "text": "タコメーター",
-                        "kana": "タコメーター",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 3
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "變速箱"
-                    ],
-                    "jishoDefinitions": [
-                        "tachometer, rev counter"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:03.093346"
-                },
-                {
-                    "originalText": "オドメーター",
-                    "word": {
-                        "text": "オドメーター",
-                        "kana": "オドメーター",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 3
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "odometer",
-                        "里程表"
-                    ],
-                    "jishoDefinitions": [
-                        "odometer"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:04.093346"
-                },
-                {
-                    "originalText": "タイヤ",
-                    "word": {
-                        "text": "タイヤ",
-                        "kana": "タイヤ",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "輪胎"
-                    ],
-                    "jishoDefinitions": [
-                        "tire, tyre"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "タイヤから空気がもれています。",
-                            "translated": "輪胎正在漏氣。"
-                        },
-                        {
-                            "jp": "タイヤに空気をいれなければ。",
-                            "translated": "我必須往輪胎裡灌一些空氣。"
-                        },
-                        {
-                            "jp": "このタイヤはだいぶん磨り減っている。",
-                            "translated": "這個輪胎有磨損。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:25:05.093346"
-                },
-                {
-                    "originalText": "トランク",
-                    "word": {
-                        "text": "トランク",
-                        "kana": "トランク",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 2
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "後車廂"
-                    ],
-                    "jishoDefinitions": [
-                        "suitcase, trunk",
-                        "trunk (of a car), boot"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "トムはトランクの中を見た。",
-                            "translated": "湯姆看著後車廂。"
-                        },
-                        {
-                            "jp": "トランクには鍵がかけられていますか。",
-                            "translated": "你的後車廂鎖了嗎？"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:25:06.093346"
-                },
-                {
-                    "originalText": "フロントガラス",
-                    "word": {
-                        "text": "フロントガラス",
-                        "kana": "フロントガラス",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 5
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "擋風玻璃"
-                    ],
-                    "jishoDefinitions": [
-                        "windscreen, windshield"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "フロントガラスをふきますか。",
-                            "translated": "我應該清潔擋風玻璃嗎？"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:25:07.093346"
-                },
-                {
-                    "originalText": "ボンネット",
-                    "word": {
-                        "text": "ボンネット",
-                        "kana": "ボンネット",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 3
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "引擎蓋"
-                    ],
-                    "jishoDefinitions": [
-                        "bonnet, (car) hood",
-                        "bonnet (hat)"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "ボンネットをあけて下さい。",
-                            "translated": "打開引擎蓋。"
-                        },
-                        {
-                            "jp": "どうやってボンネットを開けるのですか。",
-                            "translated": "如何打開引擎蓋？"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:25:08.093346"
-                },
-                {
-                    "originalText": "ヘッドライト",
-                    "word": {
-                        "text": "ヘッドライト",
-                        "kana": "ヘッドライト",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 4
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "headlight",
-                        "車頭燈"
-                    ],
-                    "jishoDefinitions": [
-                        "headlight"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "ヘッドライトが故障したんです。",
-                            "translated": "大燈故障了。"
-                        },
-                        {
-                            "jp": "ヘッドライトをつけてみてください。",
-                            "translated": "你能開大燈嗎？"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:25:09.093346"
-                },
-                {
-                    "originalText": "テールライト",
-                    "word": {
-                        "text": "テールライト",
-                        "kana": "テールライト",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 4
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "尾燈"
-                    ],
-                    "jishoDefinitions": [
-                        "taillight"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:10.093346"
-                },
-                {
-                    "originalText": "ダッシュボード",
-                    "word": {
-                        "text": "ダッシュボード",
-                        "kana": "ダッシュボード",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 4
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "dashboard",
-                        "儀表板"
-                    ],
-                    "jishoDefinitions": [
-                        "dashboard, dash"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:11.093346"
+                    "createTime": "2021-07-22T23:40:00.709502"
                 },
                 {
                     "originalText": "自動運転",
@@ -728,7 +518,179 @@
                         "automatic operation (machine), automatic driving (vehicle)"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:25:12.093346"
+                    "createTime": "2021-07-22T23:40:01.709502"
+                },
+                {
+                    "originalText": "ハンドル",
+                    "word": {
+                        "text": "ハンドル",
+                        "kana": "ハンドル",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "方向盤"
+                    ],
+                    "jishoDefinitions": [
+                        "handle",
+                        "steering wheel"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "車にはハンドルが一つある。",
+                            "translated": "一輛汽車有一個方向盤。"
+                        },
+                        {
+                            "jp": "若い女性が車のハンドルを握っていた。",
+                            "translated": "一個年輕的女孩握著方向盤。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:02.709502"
+                },
+                {
+                    "originalText": "バックミラー",
+                    "word": {
+                        "text": "バックミラー",
+                        "kana": "バックミラー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "後視鏡"
+                    ],
+                    "jishoDefinitions": [
+                        "rearview mirror"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "バックミラーがはずれてしまいました。",
+                            "translated": "後視鏡掉下來了。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:03.709502"
+                },
+                {
+                    "originalText": "クラッチペダル",
+                    "word": {
+                        "text": "クラッチペダル",
+                        "kana": "クラッチペダル",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 5
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "離合器踏板"
+                    ],
+                    "jishoDefinitions": [
+                        "clutch pedal"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "クラッチペダル、壊しちゃった。",
+                            "translated": "我弄壞了離合器。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:04.709502"
+                },
+                {
+                    "originalText": "サイドブレーキ",
+                    "word": {
+                        "text": "サイドブレーキ",
+                        "kana": "サイドブレーキ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 5
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "side brake",
+                        "手刹車"
+                    ],
+                    "jishoDefinitions": [
+                        "handbrake, parking brake"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:05.709502"
+                },
+                {
+                    "originalText": "ブレーキペダル",
+                    "word": {
+                        "text": "ブレーキペダル",
+                        "kana": "ブレーキペダル",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 5
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "剎車踏板"
+                    ],
+                    "jishoDefinitions": [
+                        "brake pedal"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:06.709502"
                 },
                 {
                     "originalText": "燃料",
@@ -767,129 +729,13 @@
                         "fuel"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:25:13.093346"
-                }
-            ]
-        },
-        {
-            "id": "f6fa39fd-eb00-11eb-985e-b46bfc8f52a9",
-            "createTime": "2021-07-22T23:24:54.105343",
-            "lastModifiedTime": "2021-07-22T23:24:54.105343",
-            "title": "交通工具",
-            "tags": [
-                "交通工具",
-                "簡單"
-            ],
-            "price": {
-                "isFree": false,
-                "discount": 1.0,
-                "prices": {
-                    "Coin": 60
-                }
-            },
-            "numFlashcards": 30,
-            "flashcards": [
-                {
-                    "originalText": "乗り物",
-                    "word": {
-                        "text": "乗り物",
-                        "kana": "のりもの",
-                        "kanjis": [
-                            {
-                                "text": "乗",
-                                "furigana": "の",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "物",
-                                "furigana": "もの",
-                                "index": 2,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "の",
-                            "",
-                            "もの"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "交通工具"
-                    ],
-                    "jishoDefinitions": [
-                        "vehicle, conveyance",
-                        "ride (playground, fair, carnival), playground facility"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "道路は様々な乗物で混雑していた。",
-                            "translated": "路上擠滿了各種車輛。"
-                        },
-                        {
-                            "jp": "あまり多くの乗り物に乗ると酔います。",
-                            "translated": "當我騎得太多時，我會感到噁心。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:24:54.105343"
+                    "createTime": "2021-07-22T23:40:07.709502"
                 },
                 {
-                    "originalText": "車",
+                    "originalText": "トランク",
                     "word": {
-                        "text": "車",
-                        "kana": "くるま",
-                        "kanjis": [
-                            {
-                                "text": "車",
-                                "furigana": "くるま",
-                                "index": 0,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "くるま"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "車，汽車"
-                    ],
-                    "jishoDefinitions": [
-                        "car, automobile",
-                        "wheel"
-                    ],
-                    "sentences": [
-                        {
-                            "jp": "この車はもうすぐスクラップだ。",
-                            "translated": "這輛車很快就要報廢了。"
-                        },
-                        {
-                            "jp": "車がぬかるみに填まり込んだ。",
-                            "translated": "車子陷在泥裡了。"
-                        },
-                        {
-                            "jp": "老人が車にひかれた。",
-                            "translated": "老人被車碾過。"
-                        }
-                    ],
-                    "createTime": "2021-07-22T23:24:55.105343"
-                },
-                {
-                    "originalText": "トラック",
-                    "word": {
-                        "text": "トラック",
-                        "kana": "トラック",
+                        "text": "トランク",
+                        "kana": "トランク",
                         "kanjis": [],
                         "furigana": [
                             "",
@@ -905,27 +751,72 @@
                         "noun"
                     ],
                     "definitions": [
-                        "卡車"
+                        "後車廂"
                     ],
                     "jishoDefinitions": [
-                        "truck, lorry",
-                        "track (running, CD, etc.)"
+                        "suitcase, trunk",
+                        "trunk (of a car), boot"
                     ],
                     "sentences": [
                         {
-                            "jp": "車がトラックに激しくぶつかった。",
-                            "translated": "汽車撞上了卡車。"
+                            "jp": "トムはトランクの中を見た。",
+                            "translated": "湯姆看著後車廂。"
                         },
                         {
-                            "jp": "彼はダラスまでトラックを運転した。",
-                            "translated": "他把卡車開到達拉斯。"
-                        },
-                        {
-                            "jp": "門はトラックにはせま過ぎた。",
-                            "translated": "大門對卡車來說太窄了。"
+                            "jp": "トランクには鍵がかけられていますか。",
+                            "translated": "你的後車廂鎖了嗎？"
                         }
                     ],
-                    "createTime": "2021-07-22T23:24:56.105343"
+                    "createTime": "2021-07-22T23:40:08.709502"
+                }
+            ]
+        },
+        {
+            "id": "0cce7d70-eb03-11eb-a6c0-b46bfc8f52a9",
+            "createTime": "2021-07-22T23:39:49.722046",
+            "lastModifiedTime": "2021-07-22T23:39:49.722046",
+            "title": "交通工具",
+            "tags": [
+                "交通工具",
+                "簡單"
+            ],
+            "price": {
+                "isFree": false,
+                "discount": 1.0,
+                "prices": {
+                    "Coin": 60
+                }
+            },
+            "numFlashcards": 30,
+            "flashcards": [
+                {
+                    "originalText": "クルーズ",
+                    "word": {
+                        "text": "クルーズ",
+                        "kana": "クルーズ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "郵輪"
+                    ],
+                    "jishoDefinitions": [
+                        "cruise",
+                        "Creuse (France), Clewes"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:39:49.721047"
                 },
                 {
                     "originalText": "セダン",
@@ -953,71 +844,13 @@
                         "Sedan"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:24:57.105343"
+                    "createTime": "2021-07-22T23:39:50.721047"
                 },
                 {
-                    "originalText": "ミニバン",
+                    "originalText": "フェリー",
                     "word": {
-                        "text": "ミニバン",
-                        "kana": "ミニバン",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "箱型車"
-                    ],
-                    "jishoDefinitions": [
-                        "minivan, people carrier"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:24:58.105343"
-                },
-                {
-                    "originalText": "スポーツカー",
-                    "word": {
-                        "text": "スポーツカー",
-                        "kana": "スポーツカー",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 4
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "跑車"
-                    ],
-                    "jishoDefinitions": [
-                        "sports car"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:24:59.105343"
-                },
-                {
-                    "originalText": "タクシー",
-                    "word": {
-                        "text": "タクシー",
-                        "kana": "タクシー",
+                        "text": "フェリー",
+                        "kana": "フェリー",
                         "kanjis": [],
                         "furigana": [
                             "",
@@ -1033,98 +866,13 @@
                         "noun"
                     ],
                     "definitions": [
-                        "計程車"
+                        "渡輪"
                     ],
                     "jishoDefinitions": [
-                        "taxi"
+                        "ferry"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:25:00.105343"
-                },
-                {
-                    "originalText": "地下鉄",
-                    "word": {
-                        "text": "地下鉄",
-                        "kana": "ちかてつ",
-                        "kanjis": [
-                            {
-                                "text": "地",
-                                "furigana": "ち",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "下",
-                                "furigana": "か",
-                                "index": 1,
-                                "length": 1
-                            },
-                            {
-                                "text": "鉄",
-                                "furigana": "てつ",
-                                "index": 2,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "ち",
-                            "か",
-                            "てつ"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "地鐵"
-                    ],
-                    "jishoDefinitions": [
-                        "underground train, subway"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:01.105343"
-                },
-                {
-                    "originalText": "電車",
-                    "word": {
-                        "text": "電車",
-                        "kana": "でんしゃ",
-                        "kanjis": [
-                            {
-                                "text": "電",
-                                "furigana": "でん",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "車",
-                                "furigana": "しゃ",
-                                "index": 1,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "でん",
-                            "しゃ"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "電車"
-                    ],
-                    "jishoDefinitions": [
-                        "train, electric train"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:02.105343"
+                    "createTime": "2021-07-22T23:39:51.721047"
                 },
                 {
                     "originalText": "新幹線",
@@ -1171,323 +919,7 @@
                         "Shinkansen"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:25:03.105343"
-                },
-                {
-                    "originalText": "バス",
-                    "word": {
-                        "text": "バス",
-                        "kana": "バス",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 1
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "公車"
-                    ],
-                    "jishoDefinitions": [
-                        "bus",
-                        "Bath (Britain), Basse"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:04.105343"
-                },
-                {
-                    "originalText": "飛行機",
-                    "word": {
-                        "text": "飛行機",
-                        "kana": "ひこうき",
-                        "kanjis": [
-                            {
-                                "text": "飛",
-                                "furigana": "ひ",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "行",
-                                "furigana": "こう",
-                                "index": 1,
-                                "length": 1
-                            },
-                            {
-                                "text": "機",
-                                "furigana": "き",
-                                "index": 2,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "ひ",
-                            "こう",
-                            "き"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 2
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "飛機"
-                    ],
-                    "jishoDefinitions": [
-                        "aeroplane, airplane"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:05.105343"
-                },
-                {
-                    "originalText": "船",
-                    "word": {
-                        "text": "船",
-                        "kana": "ふね",
-                        "kanjis": [
-                            {
-                                "text": "船",
-                                "furigana": "ふね",
-                                "index": 0,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "ふね"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 1
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "船"
-                    ],
-                    "jishoDefinitions": [
-                        "ship, boat",
-                        "tank, tub"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:06.105343"
-                },
-                {
-                    "originalText": "クルーズ",
-                    "word": {
-                        "text": "クルーズ",
-                        "kana": "クルーズ",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 2
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "郵輪"
-                    ],
-                    "jishoDefinitions": [
-                        "cruise",
-                        "Creuse (France), Clewes"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:07.105343"
-                },
-                {
-                    "originalText": "宇宙船",
-                    "word": {
-                        "text": "宇宙船",
-                        "kana": "うちゅうせん",
-                        "kanjis": [
-                            {
-                                "text": "宇",
-                                "furigana": "う",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "宙",
-                                "furigana": "ちゅう",
-                                "index": 1,
-                                "length": 1
-                            },
-                            {
-                                "text": "船",
-                                "furigana": "せん",
-                                "index": 2,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "う",
-                            "ちゅう",
-                            "せん"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "宇宙飛船"
-                    ],
-                    "jishoDefinitions": [
-                        "spaceship"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:08.105343"
-                },
-                {
-                    "originalText": "スペースシャトル",
-                    "word": {
-                        "text": "スペースシャトル",
-                        "kana": "スペースシャトル",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 5
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "太空梭"
-                    ],
-                    "jishoDefinitions": [
-                        "space shuttle"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:09.105343"
-                },
-                {
-                    "originalText": "ロケット",
-                    "word": {
-                        "text": "ロケット",
-                        "kana": "ロケット",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 2
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "火箭"
-                    ],
-                    "jishoDefinitions": [
-                        "rocket",
-                        "locket"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:10.105343"
-                },
-                {
-                    "originalText": "カヤック",
-                    "word": {
-                        "text": "カヤック",
-                        "kana": "カヤック",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 2
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "橡皮艇"
-                    ],
-                    "jishoDefinitions": [
-                        "kayak"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:11.105343"
-                },
-                {
-                    "originalText": "戦闘機",
-                    "word": {
-                        "text": "戦闘機",
-                        "kana": "せんとうき",
-                        "kanjis": [
-                            {
-                                "text": "戦",
-                                "furigana": "せん",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "闘",
-                                "furigana": "とう",
-                                "index": 1,
-                                "length": 1
-                            },
-                            {
-                                "text": "機",
-                                "furigana": "き",
-                                "index": 2,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "せん",
-                            "とう",
-                            "き"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 4
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "戰鬥機，殲擊機"
-                    ],
-                    "jishoDefinitions": [
-                        "fighter (aircraft)"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:12.105343"
+                    "createTime": "2021-07-22T23:39:52.721047"
                 },
                 {
                     "originalText": "自転車",
@@ -1533,316 +965,55 @@
                         "bicycle, bike"
                     ],
                     "sentences": [],
-                    "createTime": "2021-07-22T23:25:13.105343"
+                    "createTime": "2021-07-22T23:39:53.721047"
                 },
                 {
-                    "originalText": "救急車",
+                    "originalText": "スペースシャトル",
                     "word": {
-                        "text": "救急車",
-                        "kana": "きゅうきゅうしゃ",
+                        "text": "スペースシャトル",
+                        "kana": "スペースシャトル",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 5
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "太空梭"
+                    ],
+                    "jishoDefinitions": [
+                        "space shuttle"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:39:54.721047"
+                },
+                {
+                    "originalText": "車",
+                    "word": {
+                        "text": "車",
+                        "kana": "くるま",
                         "kanjis": [
-                            {
-                                "text": "救",
-                                "furigana": "きゅう",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "急",
-                                "furigana": "きゅう",
-                                "index": 1,
-                                "length": 1
-                            },
                             {
                                 "text": "車",
-                                "furigana": "しゃ",
-                                "index": 2,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "きゅう",
-                            "きゅう",
-                            "しゃ"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 3
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "救護車"
-                    ],
-                    "jishoDefinitions": [
-                        "ambulance"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:14.105343"
-                },
-                {
-                    "originalText": "ジェット機",
-                    "word": {
-                        "text": "ジェット機",
-                        "kana": "ジェットき",
-                        "kanjis": [
-                            {
-                                "text": "機",
-                                "furigana": "き",
-                                "index": 4,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            "",
-                            "き"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 3
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "噴氣式飛機"
-                    ],
-                    "jishoDefinitions": [
-                        "jet aeroplane, jet airplane"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:15.105343"
-                },
-                {
-                    "originalText": "カヌー",
-                    "word": {
-                        "text": "カヌー",
-                        "kana": "カヌー",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 1
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "獨木舟"
-                    ],
-                    "jishoDefinitions": [
-                        "canoe"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:16.105343"
-                },
-                {
-                    "originalText": "バイク",
-                    "word": {
-                        "text": "バイク",
-                        "kana": "バイク",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 1
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "摩托車"
-                    ],
-                    "jishoDefinitions": [
-                        "motorcycle, motorbike",
-                        "bicycle"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:17.105343"
-                },
-                {
-                    "originalText": "フェリー",
-                    "word": {
-                        "text": "フェリー",
-                        "kana": "フェリー",
-                        "kanjis": [],
-                        "furigana": [
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": false,
-                        "jishoHasError": false,
-                        "accentIndex": 1
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "渡輪"
-                    ],
-                    "jishoDefinitions": [
-                        "ferry"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:18.105343"
-                },
-                {
-                    "originalText": "夜行バス",
-                    "word": {
-                        "text": "夜行バス",
-                        "kana": "やこうバス",
-                        "kanjis": [
-                            {
-                                "text": "夜",
-                                "furigana": "や",
+                                "furigana": "くるま",
                                 "index": 0,
                                 "length": 1
-                            },
-                            {
-                                "text": "行",
-                                "furigana": "こう",
-                                "index": 1,
-                                "length": 1
                             }
                         ],
                         "furigana": [
-                            "や",
-                            "こう",
-                            "",
-                            ""
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 4
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "夜行巴士"
-                    ],
-                    "jishoDefinitions": [
-                        "overnight bus, night bus"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:19.105343"
-                },
-                {
-                    "originalText": "汽車",
-                    "word": {
-                        "text": "汽車",
-                        "kana": "きしゃ",
-                        "kanjis": [
-                            {
-                                "text": "汽",
-                                "furigana": "き",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "車",
-                                "furigana": "しゃ",
-                                "index": 1,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "き",
-                            "しゃ"
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": false,
-                        "accentIndex": 2
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "火車"
-                    ],
-                    "jishoDefinitions": [
-                        "train (esp. long distance train)",
-                        "steam train"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:20.105343"
-                },
-                {
-                    "originalText": "特急",
-                    "word": {
-                        "text": "特急",
-                        "kana": "とっきゅう",
-                        "kanjis": [
-                            {
-                                "text": "特",
-                                "furigana": "とっきゅう",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "急",
-                                "furigana": "",
-                                "index": 1,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "とっきゅう",
-                            ""
-                        ],
-                        "hasFurigana": true,
-                        "jishoHasError": true,
-                        "accentIndex": 0
-                    },
-                    "wordTypes": [
-                        "noun"
-                    ],
-                    "definitions": [
-                        "特快車"
-                    ],
-                    "jishoDefinitions": [
-                        "limited express (train for which a limited-express ticket is required)",
-                        "limited express (train making a limited no. of stops)"
-                    ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:21.105343"
-                },
-                {
-                    "originalText": "帆船",
-                    "word": {
-                        "text": "帆船",
-                        "kana": "はんせん",
-                        "kanjis": [
-                            {
-                                "text": "帆",
-                                "furigana": "はん",
-                                "index": 0,
-                                "length": 1
-                            },
-                            {
-                                "text": "船",
-                                "furigana": "せん",
-                                "index": 1,
-                                "length": 1
-                            }
-                        ],
-                        "furigana": [
-                            "はん",
-                            "せん"
+                            "くるま"
                         ],
                         "hasFurigana": true,
                         "jishoHasError": false,
@@ -1852,13 +1023,27 @@
                         "noun"
                     ],
                     "definitions": [
-                        "帆船"
+                        "車，汽車"
                     ],
                     "jishoDefinitions": [
-                        "sailing ship, sailing boat"
+                        "car, automobile",
+                        "wheel"
                     ],
-                    "sentences": [],
-                    "createTime": "2021-07-22T23:25:22.105343"
+                    "sentences": [
+                        {
+                            "jp": "この車はもうすぐスクラップだ。",
+                            "translated": "這輛車很快就要報廢了。"
+                        },
+                        {
+                            "jp": "車がぬかるみに填まり込んだ。",
+                            "translated": "車子陷在泥裡了。"
+                        },
+                        {
+                            "jp": "老人が車にひかれた。",
+                            "translated": "老人被車碾過。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:39:55.721047"
                 },
                 {
                     "originalText": "消防車",
@@ -1917,7 +1102,822 @@
                             "translated": "人群很快聚集在消防車周圍。"
                         }
                     ],
-                    "createTime": "2021-07-22T23:25:23.105343"
+                    "createTime": "2021-07-22T23:39:56.721047"
+                },
+                {
+                    "originalText": "特急",
+                    "word": {
+                        "text": "特急",
+                        "kana": "とっきゅう",
+                        "kanjis": [
+                            {
+                                "text": "特",
+                                "furigana": "とっ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "急",
+                                "furigana": "きゅう",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "とっ",
+                            "きゅう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": true,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "特快車"
+                    ],
+                    "jishoDefinitions": [
+                        "limited express (train for which a limited-express ticket is required)",
+                        "limited express (train making a limited no. of stops)"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:39:57.721047"
+                },
+                {
+                    "originalText": "電車",
+                    "word": {
+                        "text": "電車",
+                        "kana": "でんしゃ",
+                        "kanjis": [
+                            {
+                                "text": "電",
+                                "furigana": "でん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "車",
+                                "furigana": "しゃ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "でん",
+                            "しゃ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "電車"
+                    ],
+                    "jishoDefinitions": [
+                        "train, electric train"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:39:58.721047"
+                },
+                {
+                    "originalText": "カヌー",
+                    "word": {
+                        "text": "カヌー",
+                        "kana": "カヌー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "獨木舟"
+                    ],
+                    "jishoDefinitions": [
+                        "canoe"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:39:59.721047"
+                },
+                {
+                    "originalText": "乗り物",
+                    "word": {
+                        "text": "乗り物",
+                        "kana": "のりもの",
+                        "kanjis": [
+                            {
+                                "text": "乗",
+                                "furigana": "の",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "物",
+                                "furigana": "もの",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "の",
+                            "",
+                            "もの"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "交通工具"
+                    ],
+                    "jishoDefinitions": [
+                        "vehicle, conveyance",
+                        "ride (playground, fair, carnival), playground facility"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "道路は様々な乗物で混雑していた。",
+                            "translated": "路上擠滿了各種車輛。"
+                        },
+                        {
+                            "jp": "あまり多くの乗り物に乗ると酔います。",
+                            "translated": "當我騎得太多時，我會感到噁心。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:00.721047"
+                },
+                {
+                    "originalText": "バイク",
+                    "word": {
+                        "text": "バイク",
+                        "kana": "バイク",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "摩托車"
+                    ],
+                    "jishoDefinitions": [
+                        "motorcycle, motorbike",
+                        "bicycle"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:01.721047"
+                },
+                {
+                    "originalText": "救急車",
+                    "word": {
+                        "text": "救急車",
+                        "kana": "きゅうきゅうしゃ",
+                        "kanjis": [
+                            {
+                                "text": "救",
+                                "furigana": "きゅう",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "急",
+                                "furigana": "きゅう",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "車",
+                                "furigana": "しゃ",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "きゅう",
+                            "きゅう",
+                            "しゃ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "救護車"
+                    ],
+                    "jishoDefinitions": [
+                        "ambulance"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:02.721047"
+                },
+                {
+                    "originalText": "地下鉄",
+                    "word": {
+                        "text": "地下鉄",
+                        "kana": "ちかてつ",
+                        "kanjis": [
+                            {
+                                "text": "地",
+                                "furigana": "ち",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "下",
+                                "furigana": "か",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "鉄",
+                                "furigana": "てつ",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ち",
+                            "か",
+                            "てつ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "地鐵"
+                    ],
+                    "jishoDefinitions": [
+                        "underground train, subway"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:03.721047"
+                },
+                {
+                    "originalText": "カヤック",
+                    "word": {
+                        "text": "カヤック",
+                        "kana": "カヤック",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "橡皮艇"
+                    ],
+                    "jishoDefinitions": [
+                        "kayak"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:04.721047"
+                },
+                {
+                    "originalText": "ロケット",
+                    "word": {
+                        "text": "ロケット",
+                        "kana": "ロケット",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "火箭"
+                    ],
+                    "jishoDefinitions": [
+                        "rocket",
+                        "locket"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:05.721047"
+                },
+                {
+                    "originalText": "トラック",
+                    "word": {
+                        "text": "トラック",
+                        "kana": "トラック",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "卡車"
+                    ],
+                    "jishoDefinitions": [
+                        "truck, lorry",
+                        "track (running, CD, etc.)"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "車がトラックに激しくぶつかった。",
+                            "translated": "汽車撞上了卡車。"
+                        },
+                        {
+                            "jp": "彼はダラスまでトラックを運転した。",
+                            "translated": "他把卡車開到達拉斯。"
+                        },
+                        {
+                            "jp": "門はトラックにはせま過ぎた。",
+                            "translated": "大門對卡車來說太窄了。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:06.721047"
+                },
+                {
+                    "originalText": "バス",
+                    "word": {
+                        "text": "バス",
+                        "kana": "バス",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "公車"
+                    ],
+                    "jishoDefinitions": [
+                        "bus",
+                        "Bath (Britain), Basse"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:07.721047"
+                },
+                {
+                    "originalText": "戦闘機",
+                    "word": {
+                        "text": "戦闘機",
+                        "kana": "せんとうき",
+                        "kanjis": [
+                            {
+                                "text": "戦",
+                                "furigana": "せん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "闘",
+                                "furigana": "とう",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "機",
+                                "furigana": "き",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "せん",
+                            "とう",
+                            "き"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "戰鬥機，殲擊機"
+                    ],
+                    "jishoDefinitions": [
+                        "fighter (aircraft)"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:08.721047"
+                },
+                {
+                    "originalText": "スポーツカー",
+                    "word": {
+                        "text": "スポーツカー",
+                        "kana": "スポーツカー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "跑車"
+                    ],
+                    "jishoDefinitions": [
+                        "sports car"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:09.721047"
+                },
+                {
+                    "originalText": "宇宙船",
+                    "word": {
+                        "text": "宇宙船",
+                        "kana": "うちゅうせん",
+                        "kanjis": [
+                            {
+                                "text": "宇",
+                                "furigana": "う",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "宙",
+                                "furigana": "ちゅう",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "船",
+                                "furigana": "せん",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "う",
+                            "ちゅう",
+                            "せん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "宇宙飛船"
+                    ],
+                    "jishoDefinitions": [
+                        "spaceship"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:10.721047"
+                },
+                {
+                    "originalText": "ミニバン",
+                    "word": {
+                        "text": "ミニバン",
+                        "kana": "ミニバン",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "箱型車"
+                    ],
+                    "jishoDefinitions": [
+                        "minivan, people carrier"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:11.721047"
+                },
+                {
+                    "originalText": "タクシー",
+                    "word": {
+                        "text": "タクシー",
+                        "kana": "タクシー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "計程車"
+                    ],
+                    "jishoDefinitions": [
+                        "taxi"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:12.721047"
+                },
+                {
+                    "originalText": "ジェット機",
+                    "word": {
+                        "text": "ジェット機",
+                        "kana": "ジェットき",
+                        "kanjis": [
+                            {
+                                "text": "機",
+                                "furigana": "き",
+                                "index": 4,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "き"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "噴氣式飛機"
+                    ],
+                    "jishoDefinitions": [
+                        "jet aeroplane, jet airplane"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:13.721047"
+                },
+                {
+                    "originalText": "船",
+                    "word": {
+                        "text": "船",
+                        "kana": "ふね",
+                        "kanjis": [
+                            {
+                                "text": "船",
+                                "furigana": "ふね",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ふね"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "船"
+                    ],
+                    "jishoDefinitions": [
+                        "ship, boat",
+                        "tank, tub"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:14.721047"
+                },
+                {
+                    "originalText": "汽車",
+                    "word": {
+                        "text": "汽車",
+                        "kana": "きしゃ",
+                        "kanjis": [
+                            {
+                                "text": "汽",
+                                "furigana": "き",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "車",
+                                "furigana": "しゃ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "き",
+                            "しゃ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "火車"
+                    ],
+                    "jishoDefinitions": [
+                        "train (esp. long distance train)",
+                        "steam train"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:15.721047"
+                },
+                {
+                    "originalText": "飛行機",
+                    "word": {
+                        "text": "飛行機",
+                        "kana": "ひこうき",
+                        "kanjis": [
+                            {
+                                "text": "飛",
+                                "furigana": "ひ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "行",
+                                "furigana": "こう",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "機",
+                                "furigana": "き",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ひ",
+                            "こう",
+                            "き"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "飛機"
+                    ],
+                    "jishoDefinitions": [
+                        "aeroplane, airplane"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:16.721047"
+                },
+                {
+                    "originalText": "夜行バス",
+                    "word": {
+                        "text": "夜行バス",
+                        "kana": "やこうバス",
+                        "kanjis": [
+                            {
+                                "text": "夜",
+                                "furigana": "や",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "行",
+                                "furigana": "こう",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "や",
+                            "こう",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "夜行巴士"
+                    ],
+                    "jishoDefinitions": [
+                        "overnight bus, night bus"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:17.721047"
+                },
+                {
+                    "originalText": "帆船",
+                    "word": {
+                        "text": "帆船",
+                        "kana": "はんせん",
+                        "kanjis": [
+                            {
+                                "text": "帆",
+                                "furigana": "はん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "船",
+                                "furigana": "せん",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "はん",
+                            "せん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "帆船"
+                    ],
+                    "jishoDefinitions": [
+                        "sailing ship, sailing boat"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:18.721047"
                 }
             ]
         }
