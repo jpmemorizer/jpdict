@@ -20,6 +20,26 @@
         {
             "title": "動物",
             "value": "animals"
+        },
+        {
+            "title": "交通工具",
+            "value": "transportation",
+            "status": "brandNew"
+        },
+        {
+            "title": "自然",
+            "value": "nature",
+            "status": "brandNew"
+        },
+        {
+            "title": "人體",
+            "value": "human",
+            "status": "brandNew"
+        },
+        {
+            "title": "幾何圖形",
+            "value": "geometry",
+            "status": "brandNew"
         }
     ]
 }

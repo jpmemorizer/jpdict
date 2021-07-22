@@ -1,0 +1,1076 @@
+{
+    "title": "幾何圖形",
+    "value": "geometry",
+    "isLeaf": true,
+    "repos": [
+        {
+            "id": "febf6e20-eb00-11eb-99da-b46bfc8f52a9",
+            "createTime": "2021-07-22T23:25:07.131465",
+            "lastModifiedTime": "2021-07-22T23:25:07.131465",
+            "title": "形狀",
+            "tags": [
+                "幾何圖形",
+                "簡單"
+            ],
+            "price": {
+                "isFree": false,
+                "discount": 1.0,
+                "prices": {
+                    "Coin": 50
+                }
+            },
+            "numFlashcards": 24,
+            "flashcards": [
+                {
+                    "originalText": "図形",
+                    "word": {
+                        "text": "図形",
+                        "kana": "ずけい",
+                        "kanjis": [
+                            {
+                                "text": "図",
+                                "furigana": "ず",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "形",
+                                "furigana": "けい",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ず",
+                            "けい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "形狀，圖形"
+                    ],
+                    "jishoDefinitions": [
+                        "figure, shape"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:07.130466"
+                },
+                {
+                    "originalText": "角",
+                    "word": {
+                        "text": "角",
+                        "kana": "かく",
+                        "kanjis": [
+                            {
+                                "text": "角",
+                                "furigana": "かく",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "かく"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "角"
+                    ],
+                    "jishoDefinitions": [
+                        "angle",
+                        "square, cube"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:08.130466"
+                },
+                {
+                    "originalText": "直角",
+                    "word": {
+                        "text": "直角",
+                        "kana": "ちょっかく",
+                        "kanjis": [
+                            {
+                                "text": "直",
+                                "furigana": "ちょっかく",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "角",
+                                "furigana": "",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ちょっかく",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": true,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "直角"
+                    ],
+                    "jishoDefinitions": [
+                        "right angle, perpendicular"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "その２つの線は直角に交わっている。",
+                            "translated": "兩條線以直角相互交叉。"
+                        },
+                        {
+                            "jp": "これらの線は直角に交わる。",
+                            "translated": "這些線以直角相交。"
+                        },
+                        {
+                            "jp": "この２つの直線は直角に交わっている。",
+                            "translated": "這兩條線是直角。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:25:09.130466"
+                },
+                {
+                    "originalText": "円",
+                    "word": {
+                        "text": "円",
+                        "kana": "えん",
+                        "kanjis": [
+                            {
+                                "text": "円",
+                                "furigana": "えん",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "えん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "圓"
+                    ],
+                    "jishoDefinitions": [
+                        "yen (Japanese monetary unit)",
+                        "circle"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:10.130466"
+                },
+                {
+                    "originalText": "円周",
+                    "word": {
+                        "text": "円周",
+                        "kana": "えんしゅう",
+                        "kanjis": [
+                            {
+                                "text": "円",
+                                "furigana": "えん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "周",
+                                "furigana": "しゅう",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "えん",
+                            "しゅう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "圓周"
+                    ],
+                    "jishoDefinitions": [
+                        "circumference"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "円周から直径を求めることは可能ですか？",
+                            "translated": "是否可以從圓周確定直徑？"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:25:11.130466"
+                },
+                {
+                    "originalText": "直径",
+                    "word": {
+                        "text": "直径",
+                        "kana": "ちょっけい",
+                        "kanjis": [
+                            {
+                                "text": "直",
+                                "furigana": "ちょっけい",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "径",
+                                "furigana": "",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ちょっけい",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": true,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "直徑"
+                    ],
+                    "jishoDefinitions": [
+                        "diameter"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "その穴は直径二メートルです。",
+                            "translated": "這個洞的直徑有兩公尺寬。"
+                        },
+                        {
+                            "jp": "池の直径はどのくらいですか。",
+                            "translated": "池塘的直徑大概是多少？"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:25:12.130466"
+                },
+                {
+                    "originalText": "半径",
+                    "word": {
+                        "text": "半径",
+                        "kana": "はんけい",
+                        "kanjis": [
+                            {
+                                "text": "半",
+                                "furigana": "はん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "径",
+                                "furigana": "けい",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "はん",
+                            "けい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "半徑"
+                    ],
+                    "jishoDefinitions": [
+                        "radius"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:13.130466"
+                },
+                {
+                    "originalText": "円周率",
+                    "word": {
+                        "text": "円周率",
+                        "kana": "えんしゅうりつ",
+                        "kanjis": [
+                            {
+                                "text": "円",
+                                "furigana": "えん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "周",
+                                "furigana": "しゅう",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "率",
+                                "furigana": "りつ",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "えん",
+                            "しゅう",
+                            "りつ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "圓周率"
+                    ],
+                    "jishoDefinitions": [
+                        "Pi (3.1415926..)"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:14.130466"
+                },
+                {
+                    "originalText": "円形",
+                    "word": {
+                        "text": "円形",
+                        "kana": "えんけい",
+                        "kanjis": [
+                            {
+                                "text": "円",
+                                "furigana": "えん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "形",
+                                "furigana": "けい",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "えん",
+                            "けい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "圓形"
+                    ],
+                    "jishoDefinitions": [
+                        "round shape, circle"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "頭に円形の脱毛があります。",
+                            "translated": "我頭上有一個圓形的禿斑。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:25:15.130466"
+                },
+                {
+                    "originalText": "正方形",
+                    "word": {
+                        "text": "正方形",
+                        "kana": "せいほうけい",
+                        "kanjis": [
+                            {
+                                "text": "正",
+                                "furigana": "せい",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "方",
+                                "furigana": "ほう",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "形",
+                                "furigana": "けい",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "せい",
+                            "ほう",
+                            "けい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "正方形"
+                    ],
+                    "jishoDefinitions": [
+                        "square"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は黒板に正方形を二つ書いた。",
+                            "translated": "他在黑板上畫了兩個正方形。"
+                        },
+                        {
+                            "jp": "正方形は４つの同じ長さの辺をもつ。",
+                            "translated": "一個正方形有四個相等的邊。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:25:16.130466"
+                },
+                {
+                    "originalText": "長方形",
+                    "word": {
+                        "text": "長方形",
+                        "kana": "ちょうほうけい",
+                        "kanjis": [
+                            {
+                                "text": "長",
+                                "furigana": "ちょう",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "方",
+                                "furigana": "ほう",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "形",
+                                "furigana": "けい",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ちょう",
+                            "ほう",
+                            "けい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "長方形，矩形"
+                    ],
+                    "jishoDefinitions": [
+                        "rectangle, oblong"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "長方形の対辺は平行している。",
+                            "translated": "長方形的對邊平行。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:25:17.130466"
+                },
+                {
+                    "originalText": "三角形",
+                    "word": {
+                        "text": "三角形",
+                        "kana": "さんかくけい",
+                        "kanjis": [
+                            {
+                                "text": "三",
+                                "furigana": "さん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "角",
+                                "furigana": "かく",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "形",
+                                "furigana": "けい",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "さん",
+                            "かく",
+                            "けい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "三角形"
+                    ],
+                    "jishoDefinitions": [
+                        "triangle"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "三角形の面積を求めてくれ。",
+                            "translated": "請找出三角形的面積。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:25:18.130466"
+                },
+                {
+                    "originalText": "楕円形",
+                    "word": {
+                        "text": "楕円形",
+                        "kana": "だえんけい",
+                        "kanjis": [
+                            {
+                                "text": "楕",
+                                "furigana": "だ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "円",
+                                "furigana": "えん",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "形",
+                                "furigana": "けい",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "だ",
+                            "えん",
+                            "けい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "橢圓形"
+                    ],
+                    "jishoDefinitions": [
+                        "elliptical shape"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "シリウスを回る軌道は楕円形である。",
+                            "translated": "環繞天狼星的軌道是橢圓形的。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:25:19.130466"
+                },
+                {
+                    "originalText": "菱形",
+                    "word": {
+                        "text": "菱形",
+                        "kana": "ひしがた",
+                        "kanjis": [
+                            {
+                                "text": "菱",
+                                "furigana": "ひし",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "形",
+                                "furigana": "がた",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ひし",
+                            "がた"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "菱形"
+                    ],
+                    "jishoDefinitions": [
+                        "rhombus, rhomb"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:20.130466"
+                },
+                {
+                    "originalText": "扇形",
+                    "word": {
+                        "text": "扇形",
+                        "kana": "おうぎがた",
+                        "kanjis": [
+                            {
+                                "text": "扇",
+                                "furigana": "おうぎ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "形",
+                                "furigana": "がた",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "おうぎ",
+                            "がた"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "扇形"
+                    ],
+                    "jishoDefinitions": [
+                        "fan shape",
+                        "sector"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:21.130466"
+                },
+                {
+                    "originalText": "台形",
+                    "word": {
+                        "text": "台形",
+                        "kana": "だいけい",
+                        "kanjis": [
+                            {
+                                "text": "台",
+                                "furigana": "だい",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "形",
+                                "furigana": "けい",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "だい",
+                            "けい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "梯形"
+                    ],
+                    "jishoDefinitions": [
+                        "trapezium, trapezoid"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:22.130466"
+                },
+                {
+                    "originalText": "立方体",
+                    "word": {
+                        "text": "立方体",
+                        "kana": "りっぽうたい",
+                        "kanjis": [
+                            {
+                                "text": "立",
+                                "furigana": "りっ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "方",
+                                "furigana": "ぽう",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "体",
+                                "furigana": "たい",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "りっ",
+                            "ぽう",
+                            "たい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "立方體"
+                    ],
+                    "jishoDefinitions": [
+                        "cube"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:23.130466"
+                },
+                {
+                    "originalText": "円錐",
+                    "word": {
+                        "text": "円錐",
+                        "kana": "えんすい",
+                        "kanjis": [
+                            {
+                                "text": "円",
+                                "furigana": "えん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "錐",
+                                "furigana": "すい",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "えん",
+                            "すい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "圓錐"
+                    ],
+                    "jishoDefinitions": [
+                        "cone"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:24.130466"
+                },
+                {
+                    "originalText": "円柱",
+                    "word": {
+                        "text": "円柱",
+                        "kana": "えんちゅう",
+                        "kanjis": [
+                            {
+                                "text": "円",
+                                "furigana": "えん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "柱",
+                                "furigana": "ちゅう",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "えん",
+                            "ちゅう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "圓柱"
+                    ],
+                    "jishoDefinitions": [
+                        "column, shaft",
+                        "round pillar (esp. in buildings)"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:25.130466"
+                },
+                {
+                    "originalText": "直方体",
+                    "word": {
+                        "text": "直方体",
+                        "kana": "ちょくほうたい",
+                        "kanjis": [
+                            {
+                                "text": "直",
+                                "furigana": "ちょく",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "方",
+                                "furigana": "ほう",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "体",
+                                "furigana": "たい",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ちょく",
+                            "ほう",
+                            "たい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "長方體"
+                    ],
+                    "jishoDefinitions": [
+                        "right-angled parallelepiped, cuboid"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:26.130466"
+                },
+                {
+                    "originalText": "平行線",
+                    "word": {
+                        "text": "平行線",
+                        "kana": "へいこうせん",
+                        "kanjis": [
+                            {
+                                "text": "平",
+                                "furigana": "へい",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "行",
+                                "furigana": "こう",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "線",
+                                "furigana": "せん",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "へい",
+                            "こう",
+                            "せん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "平行線"
+                    ],
+                    "jishoDefinitions": [
+                        "parallel lines",
+                        "remaining far apart (e.g. in discussions), not reaching an agreement"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:27.130466"
+                },
+                {
+                    "originalText": "垂直線",
+                    "word": {
+                        "text": "垂直線",
+                        "kana": "すいちょくせん",
+                        "kanjis": [
+                            {
+                                "text": "垂",
+                                "furigana": "すい",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "直",
+                                "furigana": "ちょく",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "線",
+                                "furigana": "せん",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "すい",
+                            "ちょく",
+                            "せん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "垂直線"
+                    ],
+                    "jishoDefinitions": [
+                        "perpendicular line, vertical line"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:28.130466"
+                },
+                {
+                    "originalText": "曲線",
+                    "word": {
+                        "text": "曲線",
+                        "kana": "きょくせん",
+                        "kanjis": [
+                            {
+                                "text": "曲",
+                                "furigana": "きょく",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "線",
+                                "furigana": "せん",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "きょく",
+                            "せん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "曲線"
+                    ],
+                    "jishoDefinitions": [
+                        "curve"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:25:29.130466"
+                },
+                {
+                    "originalText": "線",
+                    "word": {
+                        "text": "線",
+                        "kana": "せん",
+                        "kanjis": [
+                            {
+                                "text": "線",
+                                "furigana": "せん",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "せん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "線"
+                    ],
+                    "jishoDefinitions": [
+                        "line, stripe",
+                        "line (e.g. telephone line), wire"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "その地図の上の太い線は道路を示す。",
+                            "translated": "地圖上的粗線代表道路。"
+                        },
+                        {
+                            "jp": "地図上の青い線は川を示す。",
+                            "translated": "地圖上的藍線表示河流。"
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:25:30.130466"
+                }
+            ]
+        }
+    ]
+}
