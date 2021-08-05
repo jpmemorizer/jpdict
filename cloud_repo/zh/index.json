@@ -6,22 +6,40 @@
         {
             "title": "日文檢定",
             "value": "jlpt",
-            "category": "featured"
+            "status": "featured"
         },
         {
             "title": "J-pop",
             "value": "jpop",
-            "category": "featured"
+            "status": "featured"
         },
         {
             "title": "食物",
-            "value": "foods",
-            "category": "topic"
+            "value": "foods"
         },
         {
             "title": "動物",
-            "value": "animals",
-            "category": "topic"
+            "value": "animals"
+        },
+        {
+            "title": "交通工具",
+            "value": "transportation",
+            "status": "brandNew"
+        },
+        {
+            "title": "自然",
+            "value": "nature",
+            "status": "brandNew"
+        },
+        {
+            "title": "人體",
+            "value": "human",
+            "status": "brandNew"
+        },
+        {
+            "title": "幾何圖形",
+            "value": "geometry",
+            "status": "brandNew"
         }
     ]
 }

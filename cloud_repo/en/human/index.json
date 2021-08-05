@@ -1,0 +1,1947 @@
+{
+    "title": "Human Body",
+    "value": "human",
+    "isLeaf": true,
+    "repos": [
+        {
+            "id": "1c21f5f9-eb03-11eb-b2ba-b46bfc8f52a9",
+            "createTime": "2021-07-22T23:40:15.424931",
+            "lastModifiedTime": "2021-07-22T23:40:15.424931",
+            "title": "Body",
+            "tags": [
+                "Human",
+                "Intermediate"
+            ],
+            "price": {
+                "isFree": false,
+                "discount": 1.0,
+                "prices": {
+                    "Coin": 50
+                }
+            },
+            "numFlashcards": 21,
+            "flashcards": [
+                {
+                    "originalText": "脇腹",
+                    "word": {
+                        "text": "脇腹",
+                        "kana": "わきばら",
+                        "kanjis": [
+                            {
+                                "text": "脇",
+                                "furigana": "わき",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "腹",
+                                "furigana": "ばら",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "わき",
+                            "ばら"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "side (of the torso), flank"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼女はわき腹に痛みを感じた。",
+                            "translated": "She felt a pain in her side."
+                        },
+                        {
+                            "jp": "彼は脇腹が痛いのです。",
+                            "translated": "He has a pain in his side."
+                        },
+                        {
+                            "jp": "お医者さん、脇腹がいたみます。",
+                            "translated": "My sides ache, doctor."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:15.423910"
+                },
+                {
+                    "originalText": "胴体",
+                    "word": {
+                        "text": "胴体",
+                        "kana": "どうたい",
+                        "kanjis": [
+                            {
+                                "text": "胴",
+                                "furigana": "どう",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "体",
+                                "furigana": "たい",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "どう",
+                            "たい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "body, trunk"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は胴体に負傷した。",
+                            "translated": "He was wounded in the body."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:16.423910"
+                },
+                {
+                    "originalText": "腰",
+                    "word": {
+                        "text": "腰",
+                        "kana": "こし",
+                        "kanjis": [
+                            {
+                                "text": "腰",
+                                "furigana": "こし",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "こし"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "lower back, waist"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は彼女の腰に腕をまわした。",
+                            "translated": "He put his arm around her waist."
+                        },
+                        {
+                            "jp": "労働者たちは腰まで裸だった。",
+                            "translated": "The workers were naked to the waist."
+                        },
+                        {
+                            "jp": "腰が伸ばせません。",
+                            "translated": "I can't straighten out my back."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:17.423910"
+                },
+                {
+                    "originalText": "喉",
+                    "word": {
+                        "text": "喉",
+                        "kana": "のど",
+                        "kanjis": [
+                            {
+                                "text": "喉",
+                                "furigana": "のど",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "のど"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "throat"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "今日起きたら喉がいがらっぽかったです。",
+                            "translated": "When I got up today my throat felt a little sore."
+                        },
+                        {
+                            "jp": "喉が痛いんです。",
+                            "translated": "I have a sore throat."
+                        },
+                        {
+                            "jp": "骨が喉にささった。",
+                            "translated": "The bone caught in my throat."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:18.423910"
+                },
+                {
+                    "originalText": "股間",
+                    "word": {
+                        "text": "股間",
+                        "kana": "こかん",
+                        "kanjis": [
+                            {
+                                "text": "股",
+                                "furigana": "こ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "間",
+                                "furigana": "かん",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "こ",
+                            "かん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "nether region, between the legs"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:19.423910"
+                },
+                {
+                    "originalText": "背中",
+                    "word": {
+                        "text": "背中",
+                        "kana": "せなか",
+                        "kanjis": [
+                            {
+                                "text": "背",
+                                "furigana": "せ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "中",
+                                "furigana": "なか",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "せ",
+                            "なか"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "back (of body)"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼女の視線を背中に感じた。",
+                            "translated": "I felt her eyes on my back."
+                        },
+                        {
+                            "jp": "私は彼の背中をぽんとたたいた。",
+                            "translated": "I clapped him on the back."
+                        },
+                        {
+                            "jp": "背中が痛くて死にそうだ。",
+                            "translated": "My back is killing me."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:20.423910"
+                },
+                {
+                    "originalText": "へそ",
+                    "word": {
+                        "text": "へそ",
+                        "kana": "へそ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "navel, belly button"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:21.423910"
+                },
+                {
+                    "originalText": "肛門",
+                    "word": {
+                        "text": "肛門",
+                        "kana": "こうもん",
+                        "kanjis": [
+                            {
+                                "text": "肛",
+                                "furigana": "こう",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "門",
+                                "furigana": "もん",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "こう",
+                            "もん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "anus"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "肛門のまわりに湿疹があります。",
+                            "translated": "I have a rash around my anus."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:22.423910"
+                },
+                {
+                    "originalText": "お腹",
+                    "word": {
+                        "text": "お腹",
+                        "kana": "おなか",
+                        "kanjis": [
+                            {
+                                "text": "腹",
+                                "furigana": "なか",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "",
+                            "なか"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "belly"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "お腹が痛いのです。",
+                            "translated": "I have a stomachache."
+                        },
+                        {
+                            "jp": "お腹が一杯になると胃が痛みます。",
+                            "translated": "My stomach aches after meals."
+                        },
+                        {
+                            "jp": "どうもおなかの具合がよくない。",
+                            "translated": "Something seems to be wrong with my stomach."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:23.423910"
+                },
+                {
+                    "originalText": "腹部",
+                    "word": {
+                        "text": "腹部",
+                        "kana": "ふくぶ",
+                        "kanjis": [
+                            {
+                                "text": "腹",
+                                "furigana": "ふく",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "部",
+                                "furigana": "ぶ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ふく",
+                            "ぶ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "abdomen"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "その一撃は彼の腹部をとらえた。",
+                            "translated": "The blow caught him in the stomach."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:24.423910"
+                },
+                {
+                    "originalText": "喉仏",
+                    "word": {
+                        "text": "喉仏",
+                        "kana": "のどぼとけ",
+                        "kanjis": [
+                            {
+                                "text": "喉",
+                                "furigana": "のど",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "仏",
+                                "furigana": "ぼとけ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "のど",
+                            "ぼとけ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "laryngeal prominence"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:25.423910"
+                },
+                {
+                    "originalText": "胸",
+                    "word": {
+                        "text": "胸",
+                        "kana": "むね",
+                        "kanjis": [
+                            {
+                                "text": "胸",
+                                "furigana": "むね",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "むね"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "chest, breast"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼女は悲しみを胸に秘めていた。",
+                            "translated": "She kept her sorrow in her bosom."
+                        },
+                        {
+                            "jp": "母親はその子を胸に抱きしめた。",
+                            "translated": "The mother hugged the child to her bosom."
+                        },
+                        {
+                            "jp": "未来への希望で胸が高鳴る。",
+                            "translated": "My heart pounded at the future excitement."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:26.423910"
+                },
+                {
+                    "originalText": "首",
+                    "word": {
+                        "text": "首",
+                        "kana": "くび",
+                        "kanjis": [
+                            {
+                                "text": "首",
+                                "furigana": "くび",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "くび"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "neck"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は首を上下に振った。",
+                            "translated": "He shook his head up and down."
+                        },
+                        {
+                            "jp": "首を寝違えました。",
+                            "translated": "I woke up with a crick in my neck."
+                        },
+                        {
+                            "jp": "少女は父親の首に抱きついた。",
+                            "translated": "The girl threw her arms around her father's neck."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:27.423910"
+                },
+                {
+                    "originalText": "鎖骨",
+                    "word": {
+                        "text": "鎖骨",
+                        "kana": "さこつ",
+                        "kanjis": [
+                            {
+                                "text": "鎖",
+                                "furigana": "さ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "骨",
+                                "furigana": "こつ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "さ",
+                            "こつ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "collarbone, clavicle"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:28.423910"
+                },
+                {
+                    "originalText": "肩",
+                    "word": {
+                        "text": "肩",
+                        "kana": "かた",
+                        "kanjis": [
+                            {
+                                "text": "肩",
+                                "furigana": "かた",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "かた"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "shoulder"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "父は私の肩に手を置いた。",
+                            "translated": "Father laid his hand on my shoulder."
+                        },
+                        {
+                            "jp": "彼女の髪は肩まである。",
+                            "translated": "Her hair comes to her shoulders."
+                        },
+                        {
+                            "jp": "身頃の肩を縫い合わせる。",
+                            "translated": "Sew together the shoulder of the garment body."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:29.423910"
+                },
+                {
+                    "originalText": "臀部",
+                    "word": {
+                        "text": "臀部",
+                        "kana": "でんぶ",
+                        "kanjis": [
+                            {
+                                "text": "臀",
+                                "furigana": "でん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "部",
+                                "furigana": "ぶ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "でん",
+                            "ぶ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "buttocks"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:30.423910"
+                },
+                {
+                    "originalText": "脇の下",
+                    "word": {
+                        "text": "脇の下",
+                        "kana": "わきのした",
+                        "kanjis": [
+                            {
+                                "text": "脇",
+                                "furigana": "わき",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "下",
+                                "furigana": "した",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "わき",
+                            "",
+                            "した"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "armpit, axilla"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "脇の下に汗をかいた。",
+                            "translated": "I perspired under the arms."
+                        },
+                        {
+                            "jp": "彼女は脇の下にバッグを抱えています。",
+                            "translated": "She has a bag under her arm."
+                        },
+                        {
+                            "jp": "彼はわきの下に本を抱えている。",
+                            "translated": "He is holding his books under his arm."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:31.423910"
+                },
+                {
+                    "originalText": "乳房",
+                    "word": {
+                        "text": "乳房",
+                        "kana": "ちぶさ",
+                        "kanjis": [
+                            {
+                                "text": "乳",
+                                "furigana": "ち",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "房",
+                                "furigana": "ぶさ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ち",
+                            "ぶさ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "breast, udder"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "乳房が痛いです。",
+                            "translated": "My breasts are tender."
+                        },
+                        {
+                            "jp": "乳房にしこりがあります。",
+                            "translated": "I have a lump in my breast."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:32.423910"
+                },
+                {
+                    "originalText": "乳首",
+                    "word": {
+                        "text": "乳首",
+                        "kana": "ちくび",
+                        "kanjis": [
+                            {
+                                "text": "乳",
+                                "furigana": "ち",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "首",
+                                "furigana": "くび",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ち",
+                            "くび"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "nipple"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "乳首から分泌液が出ます。",
+                            "translated": "I have a discharge from my nipple."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:33.423910"
+                },
+                {
+                    "originalText": "襟首",
+                    "word": {
+                        "text": "襟首",
+                        "kana": "えりくび",
+                        "kanjis": [
+                            {
+                                "text": "襟",
+                                "furigana": "えり",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "首",
+                                "furigana": "くび",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "えり",
+                            "くび"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "nape of the neck"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "男は彼のえり首をつかんだ。",
+                            "translated": "The man seized him by the neck."
+                        },
+                        {
+                            "jp": "彼は私のえり首をつかんだ。",
+                            "translated": "He took me by the collar."
+                        },
+                        {
+                            "jp": "彼はすりの襟首を掴んだ。",
+                            "translated": "He seized the pickpocket by the collar."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:34.423910"
+                },
+                {
+                    "originalText": "しり",
+                    "word": {
+                        "text": "尻",
+                        "kana": "しり",
+                        "kanjis": [
+                            {
+                                "text": "尻",
+                                "furigana": "しり",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "しり"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "buttocks"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:35.423910"
+                }
+            ]
+        },
+        {
+            "id": "1c221cf0-eb03-11eb-a6c0-b46bfc8f52a9",
+            "createTime": "2021-07-22T23:40:15.435902",
+            "lastModifiedTime": "2021-07-22T23:40:15.435902",
+            "title": "Limbs",
+            "tags": [
+                "Human",
+                "Intermediate"
+            ],
+            "price": {
+                "isFree": false,
+                "discount": 1.0,
+                "prices": {
+                    "Coin": 60
+                }
+            },
+            "numFlashcards": 27,
+            "flashcards": [
+                {
+                    "originalText": "薬指",
+                    "word": {
+                        "text": "薬指",
+                        "kana": "くすりゆび",
+                        "kanjis": [
+                            {
+                                "text": "薬",
+                                "furigana": "くすり",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "指",
+                                "furigana": "ゆび",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "くすり",
+                            "ゆび"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "ring finger"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:15.435902"
+                },
+                {
+                    "originalText": "指",
+                    "word": {
+                        "text": "指",
+                        "kana": "ゆび",
+                        "kanjis": [
+                            {
+                                "text": "指",
+                                "furigana": "ゆび",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ゆび"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "finger, toe"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "草花の根は赤ん坊の指のように弱い。",
+                            "translated": "The root of a flower is as weak as a baby's finger."
+                        },
+                        {
+                            "jp": "彼は缶詰をあけているうちに指を切った。",
+                            "translated": "He cut his finger in opening a can."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:16.435902"
+                },
+                {
+                    "originalText": "爪先",
+                    "word": {
+                        "text": "つま先",
+                        "kana": "つまさき",
+                        "kanjis": [
+                            {
+                                "text": "先",
+                                "furigana": "さき",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "",
+                            "",
+                            "さき"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "tips of the toes"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "爪先が浮きたっちゃうよ。",
+                            "translated": "That keeps me on my toes."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:17.435902"
+                },
+                {
+                    "originalText": "爪",
+                    "word": {
+                        "text": "爪",
+                        "kana": "つめ",
+                        "kanjis": [
+                            {
+                                "text": "爪",
+                                "furigana": "つめ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "つめ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "nail, claw"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "トムは爪を噛む癖がある。",
+                            "translated": "Tom has the habit of biting his nails."
+                        },
+                        {
+                            "jp": "爪を噛むのはよしなさい。",
+                            "translated": "Stop biting your nails."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:18.435902"
+                },
+                {
+                    "originalText": "脹脛",
+                    "word": {
+                        "text": "ふくらはぎ",
+                        "kana": "ふくらはぎ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "calf (of leg)"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:19.435902"
+                },
+                {
+                    "originalText": "膝",
+                    "word": {
+                        "text": "膝",
+                        "kana": "ひざ",
+                        "kanjis": [
+                            {
+                                "text": "膝",
+                                "furigana": "ひざ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ひざ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "knee"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "雪は膝の深さだった。",
+                            "translated": "The snow was knee deep."
+                        },
+                        {
+                            "jp": "彼はひざをいすにぶつけてしまった。",
+                            "translated": "He knocked his knee against the chair."
+                        },
+                        {
+                            "jp": "膝の上にナプキンを広げなさい。",
+                            "translated": "Lay the napkin across your lap."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:20.435902"
+                },
+                {
+                    "originalText": "手",
+                    "word": {
+                        "text": "手",
+                        "kana": "て",
+                        "kanjis": [
+                            {
+                                "text": "手",
+                                "furigana": "て",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "て"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "hand"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "片方の手には５本の指がある。",
+                            "translated": "We have five fingers on each hand."
+                        },
+                        {
+                            "jp": "毎回食事の前に手を洗いなさい。",
+                            "translated": "Wash your hands before each meal."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:21.435902"
+                },
+                {
+                    "originalText": "小指",
+                    "word": {
+                        "text": "小指",
+                        "kana": "こゆび",
+                        "kanjis": [
+                            {
+                                "text": "小",
+                                "furigana": "こ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "指",
+                                "furigana": "ゆび",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "こ",
+                            "ゆび"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "little finger"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "小指がはれました。",
+                            "translated": "My little finger is swollen."
+                        },
+                        {
+                            "jp": "その茎は君の小指よりやや太い。",
+                            "translated": "The stalk is a little bigger around than your little finger."
+                        },
+                        {
+                            "jp": "足の小指が痛む。",
+                            "translated": "I have a pain in my little toe."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:22.435902"
+                },
+                {
+                    "originalText": "土踏まず",
+                    "word": {
+                        "text": "土踏まず",
+                        "kana": "つちふまず",
+                        "kanjis": [
+                            {
+                                "text": "土",
+                                "furigana": "つち",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "踏",
+                                "furigana": "ふ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "つち",
+                            "ふ",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "arch of the foot"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:23.435902"
+                },
+                {
+                    "originalText": "二の腕",
+                    "word": {
+                        "text": "二の腕",
+                        "kana": "にのうで",
+                        "kanjis": [
+                            {
+                                "text": "二",
+                                "furigana": "に",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "腕",
+                                "furigana": "うで",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "に",
+                            "",
+                            "うで"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "upper arm"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:24.435902"
+                },
+                {
+                    "originalText": "足の甲",
+                    "word": {
+                        "text": "足の甲",
+                        "kana": "あしのこう",
+                        "kanjis": [
+                            {
+                                "text": "足",
+                                "furigana": "あし",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "甲",
+                                "furigana": "こう",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "あし",
+                            "",
+                            "こう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "top of the foot"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:25.435902"
+                },
+                {
+                    "originalText": "手足",
+                    "word": {
+                        "text": "手足",
+                        "kana": "てあし",
+                        "kanjis": [
+                            {
+                                "text": "手",
+                                "furigana": "て",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "足",
+                                "furigana": "あし",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "て",
+                            "あし"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "hands and feet, limbs"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は手足を縛られていた。",
+                            "translated": "He was bound hand and foot."
+                        },
+                        {
+                            "jp": "手足をいっぱいに伸ばした。",
+                            "translated": "I got out of bed and had a good stretch."
+                        },
+                        {
+                            "jp": "どろぼうは手足を縛られた。",
+                            "translated": "The thief was bound hand and foot."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:26.435902"
+                },
+                {
+                    "originalText": "踵",
+                    "word": {
+                        "text": "かかと",
+                        "kana": "かかと",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "heel"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "長時間歩くと踵にたこができる。",
+                            "translated": "If you walk a lot, you will develop calluses on your heel."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:27.435902"
+                },
+                {
+                    "originalText": "太腿",
+                    "word": {
+                        "text": "太もも",
+                        "kana": "ふともも",
+                        "kanjis": [
+                            {
+                                "text": "太",
+                                "furigana": "ふと",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ふと",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "thigh"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:28.435902"
+                },
+                {
+                    "originalText": "手の甲",
+                    "word": {
+                        "text": "手の甲",
+                        "kana": "てのこう",
+                        "kanjis": [
+                            {
+                                "text": "手",
+                                "furigana": "て",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "甲",
+                                "furigana": "こう",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "て",
+                            "",
+                            "こう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "back of the hand"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:29.435902"
+                },
+                {
+                    "originalText": "足首",
+                    "word": {
+                        "text": "足首",
+                        "kana": "あしくび",
+                        "kanjis": [
+                            {
+                                "text": "足",
+                                "furigana": "あし",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "首",
+                                "furigana": "くび",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "あし",
+                            "くび"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 3
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "ankle"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は転んで足首を捻挫した。",
+                            "translated": "He fell, twisting his ankle."
+                        },
+                        {
+                            "jp": "足首のねんざで彼は一ヶ月歩けなかった。",
+                            "translated": "A sprained ankle disabled him from walking for a month."
+                        },
+                        {
+                            "jp": "私はすべって足首をねんざした。",
+                            "translated": "I slipped and twisted my ankle."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:30.435902"
+                },
+                {
+                    "originalText": "足",
+                    "word": {
+                        "text": "足",
+                        "kana": "あし",
+                        "kanjis": [
+                            {
+                                "text": "足",
+                                "furigana": "あし",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "あし"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "foot"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼女は倒れたために左脚を折った。",
+                            "translated": "She fell down and broke her left leg."
+                        },
+                        {
+                            "jp": "彼女は長い足だ。",
+                            "translated": "She has long feet."
+                        },
+                        {
+                            "jp": "妹は脚が長くて、スポーツが好きです。",
+                            "translated": "My sister has long legs and likes sports."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:31.435902"
+                },
+                {
+                    "originalText": "親指",
+                    "word": {
+                        "text": "親指",
+                        "kana": "おやゆび",
+                        "kanjis": [
+                            {
+                                "text": "親",
+                                "furigana": "おや",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "指",
+                                "furigana": "ゆび",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "おや",
+                            "ゆび"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "thumb"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は過って親指を金槌で打ち付けた。",
+                            "translated": "He accidentally hit his thumb with the hammer."
+                        },
+                        {
+                            "jp": "親指の爪をはがしてしまいました。",
+                            "translated": "My thumbnail ripped off."
+                        },
+                        {
+                            "jp": "その手袋は親指に穴があいている。",
+                            "translated": "The glove has a hole in the thumb."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:32.435902"
+                },
+                {
+                    "originalText": "脛",
+                    "word": {
+                        "text": "すね",
+                        "kana": "すね",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "shin, shank"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:33.435902"
+                },
+                {
+                    "originalText": "腕",
+                    "word": {
+                        "text": "腕",
+                        "kana": "うで",
+                        "kanjis": [
+                            {
+                                "text": "腕",
+                                "furigana": "うで",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "うで"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "arm"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "腕をまっすぐ伸ばしなさい。",
+                            "translated": "Stretch your arms straight."
+                        },
+                        {
+                            "jp": "腕を骨折しました。",
+                            "translated": "I fractured my arm."
+                        },
+                        {
+                            "jp": "腕を前後に振りなさい。",
+                            "translated": "Swing your arm back and forth."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:34.435902"
+                },
+                {
+                    "originalText": "腿",
+                    "word": {
+                        "text": "股",
+                        "kana": "もも",
+                        "kanjis": [
+                            {
+                                "text": "股",
+                                "furigana": "もも",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "もも"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "thigh, foot"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:35.435902"
+                },
+                {
+                    "originalText": "手のひら",
+                    "word": {
+                        "text": "手のひら",
+                        "kana": "てのひら",
+                        "kanjis": [
+                            {
+                                "text": "手",
+                                "furigana": "て",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "て",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "palm"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼の手のひらに硬貨を置く。",
+                            "translated": "Place a coin in the palm of his hand."
+                        },
+                        {
+                            "jp": "彼は手のひらで一撃を与えた。",
+                            "translated": "He gave a blow with the flat of his hand."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:36.435902"
+                },
+                {
+                    "originalText": "手首",
+                    "word": {
+                        "text": "手首",
+                        "kana": "てくび",
+                        "kanjis": [
+                            {
+                                "text": "手",
+                                "furigana": "て",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "首",
+                                "furigana": "くび",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "て",
+                            "くび"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 1
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "wrist"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "その男は少女の手首をつかんだ。",
+                            "translated": "That man grabbed the young girl's wrist."
+                        },
+                        {
+                            "jp": "私は彼の手首をつかまえた。",
+                            "translated": "I took him by the wrist."
+                        },
+                        {
+                            "jp": "転んで手首を痛めました。",
+                            "translated": "I fell down and hurt my wrist."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:37.435902"
+                },
+                {
+                    "originalText": "足の裏",
+                    "word": {
+                        "text": "足の裏",
+                        "kana": "あしのうら",
+                        "kanjis": [
+                            {
+                                "text": "足",
+                                "furigana": "あし",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "裏",
+                                "furigana": "うら",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "あし",
+                            "",
+                            "うら"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 0
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "sole of foot"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "足の裏は暑さや寒さに対して鈍い。",
+                            "translated": "Soles of the feet are insensitive to heat and cold."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:38.435902"
+                },
+                {
+                    "originalText": "中指",
+                    "word": {
+                        "text": "中指",
+                        "kana": "なかゆび",
+                        "kanjis": [
+                            {
+                                "text": "中",
+                                "furigana": "なか",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "指",
+                                "furigana": "ゆび",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "なか",
+                            "ゆび"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "middle finger"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:39.435902"
+                },
+                {
+                    "originalText": "人差し指",
+                    "word": {
+                        "text": "人差し指",
+                        "kana": "ひとさしゆび",
+                        "kanjis": [
+                            {
+                                "text": "人",
+                                "furigana": "ひと",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "差",
+                                "furigana": "さ",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "指",
+                                "furigana": "ゆび",
+                                "index": 3,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ひと",
+                            "さ",
+                            "",
+                            "ゆび"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false,
+                        "accentIndex": 4
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "index finger"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は親指と人差し指で蝶をつまみあげた。",
+                            "translated": "He picked up a butterfly between his thumb and forefinger."
+                        },
+                        {
+                            "jp": "火ばさみで人差し指をやけどした。",
+                            "translated": "I burned my forefinger on fire tongs."
+                        },
+                        {
+                            "jp": "警官は人差し指で僕を招いた。",
+                            "translated": "The policeman beckoned to me with his forefinger."
+                        }
+                    ],
+                    "createTime": "2021-07-22T23:40:40.435902"
+                },
+                {
+                    "originalText": "くるぶし",
+                    "word": {
+                        "text": "くるぶし",
+                        "kana": "くるぶし",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false,
+                        "accentIndex": 2
+                    },
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "ankle, malleolus"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-07-22T23:40:41.435902"
+                }
+            ]
+        }
+    ]
+}

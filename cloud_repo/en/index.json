@@ -6,22 +6,40 @@
         {
             "title": "JLPT",
             "value": "jlpt",
-            "category": "featured"
-        },
-        {
-            "title": "Foods",
-            "value": "foods",
-            "category": "topic"
-        },
-        {
-            "title": "Animals",
-            "value": "animals",
-            "category": "topic"
+            "status": "featured"
         },
         {
             "title": "J-pop",
             "value": "jpop",
-            "category": "featured"
+            "status": "status"
+        },
+        {
+            "title": "Foods",
+            "value": "foods"
+        },
+        {
+            "title": "Animals",
+            "value": "animals"
+        },
+        {
+            "title": "Transportation",
+            "value": "transportation",
+            "status": "brandNew"
+        },
+        {
+            "title": "Nature",
+            "value": "nature",
+            "status": "brandNew"
+        },
+        {
+            "title": "Human Body",
+            "value": "human",
+            "status": "brandNew"
+        },
+        {
+            "title": "Geometry",
+            "value": "geometry",
+            "status": "brandNew"
         }
     ]
 }
