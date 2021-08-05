@@ -1,0 +1,11 @@
+{
+    "title": "JLPT",
+    "value": "jlpt",
+    "isLeaf": false,
+    "subfolders": [
+        {
+            "title": "N3",
+            "value": "n3"
+        }
+    ]
+}
