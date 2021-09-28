@@ -12574,16 +12574,16 @@
                     ],
                     "sentences": [
                         {
-                            "jp": "彼女は判決に不満の意を表した。",
-                            "translated": "她抱怨判決。"
-                        },
-                        {
                             "jp": "彼女の笑顔が感謝の気持ちを表した。",
                             "translated": "她的微笑表達了她的感謝。"
                         },
                         {
                             "jp": "彼女の微笑みが喜びを表していた。",
                             "translated": "她的笑容表達了喜悅。"
+                        },
+                        {
+                            "jp": "彼女は判決に不満の意を表した。",
+                            "translated": "她抱怨判決。"
                         }
                     ],
                     "createTime": "2021-08-05T14:09:37.201685"
@@ -14198,7 +14198,7 @@
                         "group1 verb"
                     ],
                     "definitions": [
-                        "仰望，眺望"
+                        "渴望"
                     ],
                     "jishoDefinitions": [
                         "to desire",
@@ -27124,7 +27124,7 @@
                         "noun"
                     ],
                     "definitions": [
-                        "冷靜沉著"
+                        "冷靜，沉著"
                     ],
                     "jishoDefinitions": [
                         "calmness, composure"
@@ -50724,7 +50724,7 @@
                         "conjunction"
                     ],
                     "definitions": [
-                        "於是"
+                        "總而言之，也就是說"
                     ],
                     "jishoDefinitions": [
                         "that is, namely"
@@ -52411,20 +52411,7 @@
                         "(picture) frame, framed picture",
                         "amount (esp. of money), sum"
                     ],
-                    "sentences": [
-                        {
-                            "jp": "彼は私の額にキスした。",
-                            "translated": "他在我的額頭上吻了一下。"
-                        },
-                        {
-                            "jp": "彼は額に手を当てた。",
-                            "translated": "他把手放在額頭上。"
-                        },
-                        {
-                            "jp": "彼の額は汗まみれだった。",
-                            "translated": "汗水浸濕了他的額頭。"
-                        }
-                    ],
+                    "sentences": [],
                     "createTime": "2021-08-05T14:10:13.225593"
                 },
                 {
@@ -54292,7 +54279,7 @@
                         "intransitive verb"
                     ],
                     "definitions": [
-                        "理會，在意"
+                        "在乎，在意"
                     ],
                     "jishoDefinitions": [
                         "to mind, to care about",
@@ -64492,10 +64479,6 @@
                     ],
                     "sentences": [
                         {
-                            "jp": "あとは時が解決するでしょう。",
-                            "translated": "剩下的交給時間吧。"
-                        },
-                        {
                             "jp": "ぬれた花瓶がテーブルの上に跡を残した。",
                             "translated": "濕掉的花瓶在桌子上留下了痕跡。"
                         },
@@ -65507,7 +65490,7 @@
                         "noun"
                     ],
                     "definitions": [
-                        "開朗，興高彩烈"
+                        "開朗，開心"
                     ],
                     "jishoDefinitions": [
                         "cheerful, jovial",
@@ -65516,7 +65499,7 @@
                     "sentences": [
                         {
                             "jp": "その会ではみんなが陽気だった。",
-                            "translated": "派對上的每個人都很聰明。"
+                            "translated": "派對上的每個人都很開心。"
                         },
                         {
                             "jp": "ピーターは陽気なやつだ。",

@@ -7073,14 +7073,11 @@
                     ],
                     "hasMulti": false,
                     "word": {
-                        "text": "メートル",
-                        "kana": "メートル",
+                        "text": "米",
+                        "kana": "こめ",
                         "kanjis": [],
                         "furigana": [
-                            "",
-                            "",
-                            "",
-                            ""
+                            "こめ"
                         ],
                         "hasFurigana": true,
                         "hasError": false,
