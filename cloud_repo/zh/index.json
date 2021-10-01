@@ -23,23 +23,19 @@
         },
         {
             "title": "交通工具",
-            "value": "transportation",
-            "status": "brandNew"
+            "value": "transportation"
         },
         {
             "title": "自然",
-            "value": "nature",
-            "status": "brandNew"
+            "value": "nature"
         },
         {
             "title": "人體",
-            "value": "human",
-            "status": "brandNew"
+            "value": "human"
         },
         {
             "title": "幾何圖形",
-            "value": "geometry",
-            "status": "brandNew"
+            "value": "geometry"
         }
     ]
 }
