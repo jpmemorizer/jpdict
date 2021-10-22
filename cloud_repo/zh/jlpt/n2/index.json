@@ -15752,7 +15752,7 @@
                             "てい"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": true,
+                        "jishoHasError": false,
                         "accentIndex": 0
                     },
                     "wordTypes": [
@@ -17119,7 +17119,7 @@
                     "sentences": [
                         {
                             "jp": "鼻がつまっています。",
-                            "translated": "我有正在鼻塞。"
+                            "translated": "我正在鼻塞。"
                         },
                         {
                             "jp": "今日は予定が詰まっている。",
@@ -21369,23 +21369,23 @@
                         "kanjis": [
                             {
                                 "text": "食",
-                                "furigana": "しょっき",
+                                "furigana": "しょっ",
                                 "index": 0,
                                 "length": 1
                             },
                             {
                                 "text": "器",
-                                "furigana": "",
+                                "furigana": "き",
                                 "index": 1,
                                 "length": 1
                             }
                         ],
                         "furigana": [
-                            "しょっき",
-                            ""
+                            "しょっ",
+                            "き"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": true,
+                        "jishoHasError": false,
                         "accentIndex": 0
                     },
                     "wordTypes": [
